@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc version="5">
+<character><version>38</version><uid>1429</uid><name>Sena</name><race><name>Human Variant</name><feat><name>Ability Score Increase</name><text>Two different ability scores of your choice increase by 1.
+
+Source: Player&#39;s Handbook, p. 31</text><expanded>0</expanded></feat><feat><name>Skills</name><text>You gain proficiency in one skill of your choice.
+
+Source: Player&#39;s Handbook, p. 31</text><expanded>0</expanded></feat><feat><name>Feat</name><text>You gain one feat of your choice.
+
+Source: Player&#39;s Handbook, p. 31</text><expanded>0</expanded></feat><feat><name>Languages</name><text>You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+
+Source: Player&#39;s Handbook, p. 31</text><expanded>0</expanded></feat><mod><category>1</category><type>2</type><value>1</value></mod><mod><category>1</category><type>3</type><value>1</value></mod></race><class><id>1276</id><name>Wizard [2024]</name><proficiency>4</proficiency><proficiency>114</proficiency><proficiency>108</proficiency><proficiency>3</proficiency><numClassSkills>2</numClassSkills><armor>none</armor><weapons>Simple weapons</weapons><tools>none</tools><slots>3,2,0,0,0,0,0,0,0,0,</slots><slotsCurrent>3,2,0,0,0,0,0,0,0,0,</slotsCurrent><feat><name>Becoming A Wizard As A Level 1 Character</name><text>As a 1st-level Wizard, you begin play with 6 + your Constitution modifier hit points.
+
+Core Wizard Traits
+Primary Ability: Intelligence
+Hit Point Die: D6 per Wizard level
+Saving Throw Proficiencies: Intelligence and Wisdom
+Skill Proficiencies: Choose 2: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion
+Weapon Proficiencies: Simple weapons
+Armor Training: None
+Starting Equipment: Choose A or 8: (A) 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar&#39;s Pack, and 5 GP; or (B) 55 GP
+
+Source:	Player&#39;s Handbook (2024) p. 165</text><expanded>0</expanded><optional>1</optional></feat><feat><name>Level 1: Spellcasting</name><text>As a student of arcane magic, you have learned to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the Wizard spell list later in the class&#39;s description.
+
+Cantrips. You know three Wizard cantrips of your choice. Light, Mage Hand, and Ray of Frost are recommended. Whenever you finish a Long Rest. you can replace one of your can trips from this feature with another Wizard cantrip of your choice.
+	When you reach Wizard levels 4 and 10, you learn another Wizard cant rip of your choice, as shown in the Cantrips column of the Wizard Features table.
+
+Spellbook. Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds. contains 100 pages, and can be read only by you or someone casting Identify. You determine the book&#39;s appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
+	The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. Detect Magic, Feather Fall, Mage Armor, Magic Missile. Sleep, and Thunderwave are recommended.
+	Whenever you gain a Wizard level after 1, add two Wizard spells of your choice to your spell book. Each of these spells must be of a level for which you have spell slots, as shown in the Wizard Features table. The spells are the culmination of arcane research you do regularly.
+
+Spell Slots. The Wizard Features table shows how many spell slots you have to cast your level I+ spells. You regain all expended slots when you finish a Long Rest.
+
+Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To do so, choose four spells from your spellbook. The chosen spells must be of a level for which you have spell slots.
+	The number of spells on your list increases as you gain Wizard levels, as shown in the Prepared Spells column of the Wizard Features table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level for which you have spell slots. For example, if you&#39;re a level 3 Wizard, your list of prepared spells can include six spells of levels 1 and 2 in any combination, chosen from your spellbook.
+	If another Wizard feature gives you spells that you always have prepared, those spells don&#39;t count against the number of spells you can prepare with this feature, but those spells otherwise count as Wizard spells for you.
+
+Changing Your Prepared Spells. Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with spells from your spellbook.
+
+Spellcasting Ability. Intelligence is your spellcasting ability for your Wizard spells.
+
+Spellcasting Focus. You can use an Arcane Focus or your spellbook as a Spellcasting Focus for your Wizard spells.
+
+Prepared Spells:
+Level | Prepared Spells
+1 | 4
+2 | 5
+3 | 6
+4 | 7
+5 | 9
+6 | 10
+7 | 11
+8 | 12
+9 | 14
+10 | 15
+11 | 16
+12 | 16
+13 | 17
+14 | 18
+15 | 19
+16 | 21
+17 | 22
+18 | 23
+19 | 24
+20 | 25
+
+Source:	Player&#39;s Handbook (2024) p. 165</text></feat><feat><name>Expanding And Replacing A Spellbook</name><text>The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a Spell Scroll, for example, and then copy it into your spellbook.
+
+Copying a Spell into the Book. When you find a level 1+ Wizard spell, you can copy it into your spellbook if it&#39;s of a level you can prepare and if you have time to copy it. For each level of the spell, the transcription takes 2 hours and costs 50 GP. Afterward you can prepare the spell like the other spells in your spellbook.
+
+Copying the Book. You can copy a spell from your spellbook into another book. This is like copying a new spell into your spellbook but faster, since you already know how to cast the spell. You need spend only 1 hour and 10 GP for each level of the copied spell.
+	If you lose your spell book, you can use the same procedure to transcribe the Wizard spells that you have prepared into a new spellbook. Filling out the remainder of the new book requires you to find new spells to do so. For this reason, many wizards keep a backup spellbook.
+
+Source:	Player&#39;s Handbook (2024) p. 166</text><expanded>0</expanded></feat><feat><name>Level 1: Ritual Adept</name><text>You can cast any spell as a Ritual if that spell has the Ritual tag and the spell is in your spellbook. You needn&#39;t have the spell prepared, but you must read from the book to cast a spell in this way.
+
+Source:	Player&#39;s Handbook (2024) p. 166</text><expanded>0</expanded></feat><feat><name>Level 1: Arcane Recovery</name><text>You can regain some of your magical energy by studying your spell book. When you finish a Short Rest, you can choose expended spell slots to recover. The spell slots can have a combined level equal to no more than half your Wizard level (round up), and none of the slots can be level 6 or higher. For example, if you&#39;re a level 4 Wizard, you can recover up to two levels&#39; worth of spell slots, regaining either one level 2 spell slot or two level 1 spell slots.
+	Once you use this feature, you can&#39;t do so again until you finish a Long Rest.
+
+Source:	Player&#39;s Handbook (2024) p. 166</text><expanded>0</expanded></feat><tracker><label>Arcane Recovery</label><resetType>2</resetType><value>1</value><formula>1</formula></tracker><autolevel><slots>3,2,0,0,0,0,0,0,0,0,</slots><feat><name>Becoming A Wizard As A Level 1 Character</name><text>As a 1st-level Wizard, you begin play with 6 + your Constitution modifier hit points.
+
+Core Wizard Traits
+Primary Ability: Intelligence
+Hit Point Die: D6 per Wizard level
+Saving Throw Proficiencies: Intelligence and Wisdom
+Skill Proficiencies: Choose 2: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion
+Weapon Proficiencies: Simple weapons
+Armor Training: None
+Starting Equipment: Choose A or 8: (A) 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar&#39;s Pack, and 5 GP; or (B) 55 GP
+
+Source:	Player&#39;s Handbook (2024) p. 165</text><optional>1</optional></feat><feat><name>Becoming A Wizard As A Multiclass Character</name><text>Core Wizard Traits
+Primary Ability: Intelligence
+Hit Point Die: D6 per Wizard level
+
+Source:	Player&#39;s Handbook (2024) p. 165</text><optional>1</optional></feat><feat><name>Level 1: Spellcasting</name><text>As a student of arcane magic, you have learned to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the Wizard spell list later in the class&#39;s description.
+
+Cantrips. You know three Wizard cantrips of your choice. Light, Mage Hand, and Ray of Frost are recommended. Whenever you finish a Long Rest. you can replace one of your can trips from this feature with another Wizard cantrip of your choice.
+	When you reach Wizard levels 4 and 10, you learn another Wizard cant rip of your choice, as shown in the Cantrips column of the Wizard Features table.
+
+Spellbook. Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds. contains 100 pages, and can be read only by you or someone casting Identify. You determine the book&#39;s appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
+	The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. Detect Magic, Feather Fall, Mage Armor, Magic Missile. Sleep, and Thunderwave are recommended.
+	Whenever you gain a Wizard level after 1, add two Wizard spells of your choice to your spell book. Each of these spells must be of a level for which you have spell slots, as shown in the Wizard Features table. The spells are the culmination of arcane research you do regularly.
+
+Spell Slots. The Wizard Features table shows how many spell slots you have to cast your level I+ spells. You regain all expended slots when you finish a Long Rest.
+
+Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To do so, choose four spells from your spellbook. The chosen spells must be of a level for which you have spell slots.
+	The number of spells on your list increases as you gain Wizard levels, as shown in the Prepared Spells column of the Wizard Features table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level for which you have spell slots. For example, if you&#39;re a level 3 Wizard, your list of prepared spells can include six spells of levels 1 and 2 in any combination, chosen from your spellbook.
+	If another Wizard feature gives you spells that you always have prepared, those spells don&#39;t count against the number of spells you can prepare with this feature, but those spells otherwise count as Wizard spells for you.
+
+Changing Your Prepared Spells. Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with spells from your spellbook.
+
+Spellcasting Ability. Intelligence is your spellcasting ability for your Wizard spells.
+
+Spellcasting Focus. You can use an Arcane Focus or your spellbook as a Spellcasting Focus for your Wizard spells.
+
+Prepared Spells:
+Level | Prepared Spells
+1 | 4
+2 | 5
+3 | 6
+4 | 7
+5 | 9
+6 | 10
+7 | 11
+8 | 12
+9 | 14
+10 | 15
+11 | 16
+12 | 16
+13 | 17
+14 | 18
+15 | 19
+16 | 21
+17 | 22
+18 | 23
+19 | 24
+20 | 25
+
+Source:	Player&#39;s Handbook (2024) p. 165</text></feat><feat><name>Expanding And Replacing A Spellbook</name><text>The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a Spell Scroll, for example, and then copy it into your spellbook.
+
+Copying a Spell into the Book. When you find a level 1+ Wizard spell, you can copy it into your spellbook if it&#39;s of a level you can prepare and if you have time to copy it. For each level of the spell, the transcription takes 2 hours and costs 50 GP. Afterward you can prepare the spell like the other spells in your spellbook.
+
+Copying the Book. You can copy a spell from your spellbook into another book. This is like copying a new spell into your spellbook but faster, since you already know how to cast the spell. You need spend only 1 hour and 10 GP for each level of the copied spell.
+	If you lose your spell book, you can use the same procedure to transcribe the Wizard spells that you have prepared into a new spellbook. Filling out the remainder of the new book requires you to find new spells to do so. For this reason, many wizards keep a backup spellbook.
+
+Source:	Player&#39;s Handbook (2024) p. 166</text></feat><feat><name>Level 1: Ritual Adept</name><text>You can cast any spell as a Ritual if that spell has the Ritual tag and the spell is in your spellbook. You needn&#39;t have the spell prepared, but you must read from the book to cast a spell in this way.
+
+Source:	Player&#39;s Handbook (2024) p. 166</text></feat><feat><name>Level 1: Arcane Recovery</name><text>You can regain some of your magical energy by studying your spell book. When you finish a Short Rest, you can choose expended spell slots to recover. The spell slots can have a combined level equal to no more than half your Wizard level (round up), and none of the slots can be level 6 or higher. For example, if you&#39;re a level 4 Wizard, you can recover up to two levels&#39; worth of spell slots, regaining either one level 2 spell slot or two level 1 spell slots.
+	Once you use this feature, you can&#39;t do so again until you finish a Long Rest.
+
+Source:	Player&#39;s Handbook (2024) p. 166</text></feat><tracker><label>Arcane Recovery</label><resetType>2</resetType><value>1</value><formula>1</formula></tracker></autolevel><autolevel><level>2</level><slots>3,3,0,0,0,0,0,0,0,0,</slots><feat><name>Level 2: Scholar</name><text>While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: Arcana, History, Investigation, Medicine, Nature, or Religion. You have Expertise in the chosen skill.
+Source:	Player&#39;s Handbook (2024) p. 166</text></feat></autolevel><autolevel><level>3</level><slots>3,4,2,0,0,0,0,0,0,0,</slots><feat><name>Level 3: Wizard Subclass</name><text>You gain a Wizard subclass of your choice. The Abjurer, Diviner, Evoker, and Illusionist subclasses are detailed after this class&#39;s description. A subclass is a specialization t hat grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass&#39;s features that are of your Wizard level or lower.
+
+Source:	Player&#39;s Handbook (2024) p. 167</text></feat><feat><name>Wizard Subclass: Abjurer</name><text>Shield Companions and Banish Foes
+
+Your study of magic is focused on spells that block, banish, or protect-ending harmful effects, banishing evil influences, and protecting the weak. Abjurers are sought when baleful spirits require exorcism, when locations must be guarded against magical spying, and when portals to other planes of existence must be closed. Adventuring parties value Abjurers for the protection they provide against a variety of hostile magic and other attacks.
+
+Source:	Player&#39;s Handbook (2024) p. 172</text><optional>1</optional></feat><feat><name>Level 3: Abjuration Savant (Abjurer)</name><text>Choose two Wizard spells from the Abjuration school, each of which must be no higher than level 2, and add them to your spellbook for free.
+	In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Abjuration school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+
+Source:	Player&#39;s Handbook (2024) p. 172</text><optional>1</optional></feat><feat><name>Level 3: Arcane Ward (Abjurer)</name><text>You can weave magic around yourself for protection. When you cast an Abjuration spell with a spell slot, you can simultaneously use a strand of the spell&#39;s magic to create a magical ward on yourself that lasts until you finish a Long Rest. The ward has a Hit Point maximum equal to twice your Wizard level plus your Intelligence modifier. Whenever you take damage, the ward takes the damage instead, and if you have any Resistances or Vulnerabilities, apply them before reducing the ward&#39;s Hit Points. If the damage reduces the ward to 0 hit points, you take any remaining damage. While the ward has 0 Hit Points, it can&#39;t absorb damage, but its magic remains.
+	Whenever you cast an Abjuration spell with a spell slot, the ward regains a number of Hit Points equal to twice the level of the spell slot. Alternatively, as a Bonus Action, you can expend a spell slot, and the ward regains a number of Hit Points equal to twice the level of the spell slot expended.
+	Once you create the ward, you can&#39;t create it again until you finish a Long Rest.
+
+Source:	Player&#39;s Handbook (2024) p. 172</text><optional>1</optional></feat><feat><name>Wizard Subclass: Diviner</name><text>Learn the Secrets of the Multi verse
+
+The counsel of a Diviner is sought by those who want a clearer understanding of the past, present, and future. As a Diviner, you strive to part the veils of space, time, and consciousness. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.
+
+Source:	Player&#39;s Handbook (2024) p. 173</text><optional>1</optional></feat><feat><name>Level 3: Divination Savant (Diviner)</name><text>Choose two Wizard spells from the Divination school, each of which must be no higher than level 2, and add them to your spellbook for free.
+	In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Divination school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+
+Source:	Player&#39;s Handbook (2024) p. 173</text><optional>1</optional></feat><feat><name>Level 3: Portent (Diviner)</name><text>Glimpses of the future begin to press on your awareness. Whenever you finish a Long Rest, roll two d20s and record the numbers rolled. You can replace any D20 Test made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
+	Each foretelling roll can be used only once. When you finish a Long Rest, you lose any unused foretelling rolls.
+
+Source:	Player&#39;s Handbook (2024) p. 173</text><optional>1</optional></feat><feat><name>Wizard Subclass: Evoker</name><text>Create Explosive Elemental Effects
+
+Your studies focus on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some Evokers find employment in military forces, serving as artillery to blast armies from afar. Others use their power to protect others, while some seek their own gain.
+
+Source:	Player&#39;s Handbook (2024) p. 174</text><optional>1</optional></feat><feat><name>Level 3: Evocation Savant (Evoker)</name><text>Choose two Wizard spells from the Evocation school, each of which must be no higher than level 2, and add them to your spellbook for free.
+	In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Evocation school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+
+Source:	Player&#39;s Handbook (2024) p. 174</text><optional>1</optional></feat><feat><name>Level 3: Potent Cantrip (Evoker)</name><text>Your damaging cantrips affect even creatures that avoid the brunt of the effect. When you cast a cantrip at a creature and you miss with the attack roll or the target succeeds on a saving throw against the cantrip, the target takes half the cantrip&#39;s damage (if any) but suffers no additional effect from the cantrip.
+
+Source:	Player&#39;s Handbook (2024) p. 174</text><optional>1</optional></feat><feat><name>Wizard Subclass: Illusionist</name><text>Weave Subtle Spells of Deception
+
+You specialize in magic that dazzles the senses and tricks the mind, and the illusions you craft make the impossible seem real.
+
+Source:	Player&#39;s Handbook (2024) p. 175</text><optional>1</optional></feat><feat><name>Level 3: Illusion Savant (Illusionist)</name><text>Choose two Wizard spells from the Illusion school, each of which must be no higher than level 2, and add them to your spellbook for free.
+	In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Illus ion school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+
+Source:	Player&#39;s Handbook (2024) p. 175</text><optional>1</optional></feat><feat><name>Level 3: Improved Illusions (Illusionist)</name><text>You can cast Illusion spells without providing Verbal components, and if an Illusion spell you cast has a range of 10+ feet, the range increases by 60 feet.
+	You also know the Minor Illusion cantrip. If you already know it, you learn a different Wizard cantrip of your choice. The cantrip doesn&#39;t count against your number of cantrips known. You can create both a sound and an image with a single casting of Minor Illusion, and you can cast it as a Bonus Action.
+
+Source:	Player&#39;s Handbook (2024) p. 175</text><optional>1</optional></feat><feat><name>Wizard Subclass: Bladesinger (UA)</name><text>Wield Sword and Sorcery in Elegant Tandem
+
+Bladesingers master a tradition of wizardry that incorporates swordplay and dance. In combat, a Bladesinger uses a series of intricate, elegant maneuvers that fend off harm and allow the Bladesinger to channel magic into devastating attacks and a cunning defense. Many who have observed a Bladesinger at work remember the display as one of the more beautiful experiences in their life, a glorious dance accompanied by a singing blade.
+
+Bladesinging is strongly associated with the ancient elven societies that first mastered the art and coined the term. Even today, most Bladesingers still hail from old elven realms, such as Cormanthyr, or from non-elven societies that share land and history with elves, such as the Silver Marches. Wherever they hail from, Bladesingers are known for taking their talents all across the Realms in order to help common people and perform heroic deeds. Few communities greet the arrival of a Bladesinger as anything but a good omen.
+
+Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 8</text><optional>1</optional></feat><feat><name>Level 3: Bladesong (Bladesinger (UA))</name><text>As a Bonus Action, you invoke an elven magic called the Bladesong, provided you aren&#39;t wearing armor or using a Shield.
+
+The Bladesong lasts for 1 minute and ends early if you have the Incapacitated condition, if you don armor or a Shield, or if you use two hands to make an attack with a weapon. You can dismiss the Bladesong at any time (no action required).
+
+While the Bladesong is active, you gain the following benefits. You can invoke the Bladesong a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+
+Agility. You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1), and your Speed increases by 10 feet.
+
+Bladework. Whenever you attack with a weapon with which you have proficiency, you can use your Intelligence modifier for the attack and damage rolls instead of using Strength or Dexterity.
+
+Focus. When you make a Constitution saving throw to maintain Concentration, you can add your Intelligence modifier to the total.
+
+Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 8</text><optional>1</optional></feat><feat><name>Level 3: Training In War And Song (Bladesinger (UA))</name><text>You gain proficiency with all Melee Martial weapons that don&#39;t have the Two-Handed or Heavy property. You can use a Melee weapon with which you have proficiency as a Spellcasting Focus for your Wizard spells.
+
+You also gain proficiency in one of the following skills of your choice: Acrobatics, Athletics, Performance, or Persuasion.
+
+Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 9</text><optional>1</optional></feat><feat><name>Wizard Subclass: Conjurer (UA)</name><text>Step Across Space and Call Creatures from Thin Air
+
+You consider distance and matter to be flexible guidelines rather than physical laws. Conjurers harness the power of magic that moves creatures instantly through space and summons creatures to fight on their behalf.
+
+Source:	UA25-ArcaneSubclasses p. 7</text><optional>1</optional></feat><feat><name>Level 3: Benign Transposition (Conjurer (UA))</name><text>As a Magic action, you teleport up to 30 feet to an unoccupied space that you can see. Alternatively, you can choose a space within range that is occupied by a Medium or smaller creature. If that creature is willing, you both teleport, swapping places.
+	Once you use this feature, you can&#39;t use it again until you finish a Long Rest. You can also restore your use of it by expending a level 2+ spell slot (no action required).
+
+Source:	UA25-ArcaneSubclasses p. 7</text><optional>1</optional></feat><feat><name>Level 3: Conjuration Savant (Conjurer (UA))</name><text>Choose two Wizard spells from the Conjuration school, each of which must be no higher than level 2, and add them to your spellbook for free.
+	In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Conjuration school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+
+Source:	UA25-ArcaneSubclasses p. 7</text><optional>1</optional></feat><feat><name>Wizard Subclass: Enchanter (UA)</name><text>Entrance and Beguile Others
+
+Your magic clouds or captivates minds. Some Enchanters use their abilities to encourage peace and soften cruelty, while others use their mind-altering magic for selfish ends. Many Enchanters fall somewhere in between.
+
+Source:	UA25-ArcaneSubclasses p. 8</text><optional>1</optional></feat><feat><name>Level 3: Enchanting Talker (Enchanter (UA))</name><text>Whenever you make a Charisma check, you gain a bonus to the check equal to your Intelligence modifier (minimum of +1).
+	You also gain proficiency in one of these skills of your choice: Deception, Intimidation, or Persuasion.
+
+Source:	UA25-ArcaneSubclasses p. 8</text><optional>1</optional></feat><feat><name>Level 3: Enchantment Savant (Enchanter (UA))</name><text>Choose two Wizard spells from the Enchantment school, each of which must be no higher than level 2, and add them to your spellbook for free.
+	In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Enchantment school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+
+Source:	UA25-ArcaneSubclasses p. 8</text><optional>1</optional></feat><feat><name>Level 3: Vexing Movement (Enchanter (UA))</name><text>Immediately after you cast an Enchantment spell using an action and a spell slot, you can take both the Disengage and Dash actions as a Bonus Action.
+	You can use this Bonus Action a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a Long Rest.
+
+Source:	UA25-ArcaneSubclasses p. 9</text><optional>1</optional></feat><feat><name>Wizard Subclass: Necromancer (UA)</name><text>Command the Powers of Death and Undeath
+
+You explore the cosmic forces of life, death, and undeath. As a Necromancer, you learn to manipulate the energy that animates all creatures. As you progress, you learn to use magic to drain the life force from a creature, transforming its vital energy into magical power. Many see Necromancers as menacing or villainous, though not all Necromancers are evil. Nevertheless, the manipulation of life and death is considered taboo in many societies.
+
+Source:	UA25-ArcaneSubclasses p. 9</text><optional>1</optional></feat><feat><name>Level 3: Necromancy Savant (Necromancer (UA))</name><text>Choose two Wizard spells from the Necromancy school, each of which must be no higher than level 2, and add them to your spellbook for free.
+	In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Necromancy school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+
+Source:	UA25-ArcaneSubclasses p. 9</text><optional>1</optional></feat><feat><name>Level 3: Necromancy Spellbook (Necromancer (UA))</name><text>Secrets of necromancy magic in your spellbook grant you additional powers. You gain the following benefits.
+
+Necrotic Resistance. You have Resistance to Necrotic damage.
+
+Grim Harvest. When you cast a Necromancy spell using a spell slot, choose yourself or a creature you can see within 30 feet of yourself to gain a number of Temporary Hit Points equal to the level of the spell slot plus your Intelligence modifier (minimum 1 Temporary Hit Point).
+
+Source:	UA25-ArcaneSubclasses p. 9</text><optional>1</optional></feat><feat><name>Wizard Subclass: Transmuter (UA)</name><text>Transform Energy and Matter
+
+You study spells that modify energy and matter. To you, the world is not a fixed thing, but eminently mutable. Your magic gives you the tools to become a smith on reality&#39;s forge.
+	Some Transmuters are tinkerers and pranksters. Others pursue their magical studies with deadly seriousness, seeking the power of the gods to make and destroy worlds.
+
+Source:	UA25-ArcaneSubclasses p. 10</text><optional>1</optional></feat><feat><name>Level 3: Transmutation Savant (Transmuter (UA))</name><text>Choose two Wizard spells from the Transmutation school, each of which must be no higher than level 2, and add them to your spellbook for free.
+	In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Transmutation school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+
+Source:	UA25-ArcaneSubclasses p. 10</text><optional>1</optional></feat><feat><name>Level 3: Transmuter&#39;s Stone (Transmuter (UA))</name><text>When you finish a Long Rest, you can create a magic pebble called a transmuter&#39;s stone that lasts until you use this feature again. A creature with the stone in its possession gains a benefit from one of the following options, which you choose when you create the stone. You can change the stone&#39;s benefit when you cast a Transmutation spell using a spell slot.
+
+Darkvision. The bearer gains Darkvision with a range of 60 feet or increases the range of its Darkvision by 60 feet.
+
+Speed. The bearer&#39;s Speed increases by 10 feet.
+
+Durability. The bearer gains proficiency in Constitution saving throws.
+
+Resistance. The bearer gains Resistance to Acid, Cold, Fire, Lightning, Poison, or Thunder damage (your choice each time you choose this benefit).
+
+Source:	UA25-ArcaneSubclasses p. 10</text><optional>1</optional></feat><feat><name>Level 3: Wondrous Enhancement (Transmuter (UA))</name><text>You always have Enhance Ability prepared and can cast it once without a spell slot. You regain the ability to cast it in this way when you finish a Long Rest.
+	Targets of your Enhance Ability also have Advantage on saving throws using the chosen ability.
+
+Source:	UA25-ArcaneSubclasses p. 11</text><optional>1</optional></feat><feat><name>Wizard Subclass: Conjurer (UA)</name><text>Step Across Space and Call Creatures from Thin Air
+
+You consider distance and matter to be flexible guidelines rather than physical laws. Conjurers harness the power of magic that moves creatures instantly through space and summons creatures to fight on their behalf.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 5</text><optional>1</optional></feat><feat><name>Level 3: Benign Transposition (Conjurer (UA))</name><text>As a Bonus Action, you teleport up to 30 feet to an unoccupied space that you can see. Alternatively, you can choose a space within range that is occupied by a Medium or smaller creature. If that creature is willing, you both teleport, swapping places.
+	You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 5</text><optional>1</optional></feat><feat><name>Level 3: Conjuration Savant (Conjurer (UA))</name><text>Choose two Wizard spells from the Conjuration school, each of which must be no higher than level 2, and add them to your spellbook for free.
+	In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Conjuration school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 5</text><optional>1</optional></feat><feat><name>Wizard Subclass: Enchanter (UA)</name><text>Entrance and Beguile Others
+
+Your magic clouds or captivates minds. Some Enchanters use their abilities to encourage peace and soften cruelty, while others use their mindaltering magic for selfish ends. Many Enchanters fall somewhere in between.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 6</text><optional>1</optional></feat><feat><name>Level 3: Enchanting Conversationalist (Enchanter (UA))</name><text>You gain proficiency in one of the following skills of your choice: Deception, Intimidation, or Persuasion.
+	In addition, when you make an ability check with the chosen skill, you gain a bonus to the check equal to your Intelligence modifier (minimum of +1).
+
+Source:	UA25-ArcaneSubclassesUpdate p. 6</text><optional>1</optional></feat><feat><name>Level 3: Enchantment Savant (Enchanter (UA))</name><text>Choose two Wizard spells from the Enchantment school, each of which must be no higher than level 2, and add them to your spellbook for free.
+	In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Enchantment school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 6</text><optional>1</optional></feat><feat><name>Level 3: Hypnotic Presence (Enchanter (UA))</name><text>Your charming words and enchanting gaze can enthrall another creature. As a Magic action, choose one creature that you can see within 10 feet of yourself. If the target can see or hear you, it must succeed on a Wisdom saving throw against your spell save DC or have the Charmed condition for 1 minute or until your Concentration ends, the target is more than 10 feet away from you, the target can neither see nor hear you, or the target takes damage. While Charmed in this way, the target has the Incapacitated condition and a Speed of 0.
+	Once you use this feature, you can&#39;t do so again until you finish a Long Rest. You can also restore your use of it by expending a level 1+ spell slot (no action required).
+
+Source:	UA25-ArcaneSubclassesUpdate p. 6</text><optional>1</optional></feat><feat><name>Wizard Subclass: Necromancer (UA)</name><text>Command the Powers of Death and Undeath
+
+You explore the cosmic forces of life, death, and undeath. As a Necromancer, you learn to manipulate the energy that animates all creatures. As you progress, you learn to use magic to drain the life force from a creature and transform its vital energy into magical power. Many see Necromancers as menacing or villainous, though not all Necromancers are evil. Nevertheless, the manipulation of life and death is considered taboo in many societies.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 7</text><optional>1</optional></feat><feat><name>Level 3: Necromancy Savant (Necromancer (UA))</name><text>Choose two Wizard spells from the Necromancy school, each of which must be no higher than level 2, and add them to your spellbook for free.
+	In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Necromancy school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 7</text><optional>1</optional></feat><feat><name>Level 3: Necromancy Spellbook (Necromancer (UA))</name><text>The necromantic secrets in your spellbook grant you additional powers. You gain the following benefits.
+
+Necrotic Resistance. You have Resistance to Necrotic damage.
+
+Grim Harvest. When you cast a Necromancy spell using a spell slot, you can choose an Undead creature you can see within 60 feet of yourself to regain a number of Hit Points equal to the level of the spell slot expended plus your Wizard level.
+
+Undead Familiar. The Find Familiar spell appears in your spellbook. When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: Skeleton or Zombie (see appendix B of the Player&#39;s Handbook for the familiar&#39;s stat block).
+
+Source:	UA25-ArcaneSubclassesUpdate p. 8</text><optional>1</optional></feat><feat><name>Wizard Subclass: Transmuter (UA)</name><text>Transform Energy and Matter
+
+You study spells that modify energy and matter. To you, the world is not a fixed thing, but eminently mutable. Your magic gives you the tools to become a smith at reality&#39;s forge.
+	Some Transmuters are tinkerers and pranksters. Others pursue their magical studies with deadly seriousness, seeking the power make and destroy worlds.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 9</text><optional>1</optional></feat><feat><name>Level 3: Transmutation Savant (Transmuter (UA))</name><text>Choose two Wizard spells from the Transmutation school, each of which must be no higher than level 2, and add them to your spellbook for free.
+	In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Transmutation school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 9</text><optional>1</optional></feat><feat><name>Level 3: Transmuter&#39;s Stone (Transmuter (UA))</name><text>When you finish a Long Rest, you can create a magic stone that lasts until you use this feature again. The stone is a Tiny object, and you can use it as a Spellcasting Focus for your Wizard spells.
+	A creature with the stone in its possession gains proficiency in Constitution saving throws and one of the following benefits, which you choose when you create the stone. You can change the stone&#39;s benefit when you cast a Transmutation spell using a spell slot.
+
+Darkvision. The bearer gains Darkvision with a range of 60 feet or increases the range of its Darkvision by 60 feet.
+
+Speed. The bearer&#39;s Speed increases by 10 feet.
+
+Resistance. The bearer gains Resistance to Acid, Cold, Fire, Lightning, Poison, or Thunder damage (your choice each time you choose this benefit).
+
+Source:	UA25-ArcaneSubclassesUpdate p. 9</text><optional>1</optional></feat><feat><name>Level 3: Wondrous Alteration (Transmuter (UA))</name><text>You always have the Alter Self spell prepared and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a Long Rest.
+	While under the effects of Alter Self, you gain an additional benefit for each of its options.
+
+Aquatic Adaptation. While underwater, you can take the Dash action as a Bonus Action.
+
+Change Appearance. You have Advantage on Charisma (Deception) checks.
+
+Natural Weapons. The damage of your new growth increases to 2d6 damage of the type associated with the growth. You also have Advantage on Constitution saving throws to maintain Concentration.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 9</text><optional>1</optional></feat><feat><name>Wizard Subclass: School of Conjuration (Legacy)</name><text>As a conjurer, you favor spells that produce objects and creatures out of thin air. You can conjure billowing clouds of killing fog or summon creatures from elsewhere to fight on your behalf. As your mastery grows, you learn spells of transportation and can teleport yourself across vast distances, even to other planes of existence, in an instant.
+
+Source:	Player&#39;s Handbook (2014) p. 116</text><optional>1</optional></feat><feat><name>Level 3: Conjuration Savant (School of Conjuration (Legacy))</name><text>Beginning when you select this school at 3rd level, the gold and time you must spend to copy a conjuration spell into your spellbook is halved.
+
+Source:	Player&#39;s Handbook (2014) p. 116</text><optional>1</optional></feat><feat><name>Level 3: Minor Conjuration (School of Conjuration (Legacy))</name><text>Starting at 3rd level when you select this school, you can use your action to conjure up an inanimate object in your hand or on the ground in an unoccupied space that you can see within 10 feet of you. This object can be no larger than 3 feet on a side and weigh no more than 10 pounds, and its form must be that of a nonmagical object that you have seen. The object is visibly magical, radiating dim light out to 5 feet.
+	The object disappears after 1 hour, when you use this feature again, if it takes any damage, or if it deals any damage.
+
+Source:	Player&#39;s Handbook (2014) p. 116</text><optional>1</optional></feat><feat><name>Wizard Subclass: School of Enchantment (Legacy)</name><text>As a member of the School of Enchantment, you have honed your ability to magically entrance and beguile other people and monsters. Some enchanters are peacemakers who bewitch the violent to lay down their arms and charm the cruel into showing mercy. Others are tyrants who magically bind the unwilling into their service. Most enchanters fall somewhere in between.
+
+Source:	Player&#39;s Handbook (2014) p. 117</text><optional>1</optional></feat><feat><name>Level 3: Enchantment Savant (School of Enchantment (Legacy))</name><text>Beginning when you select this school at 3rd level, the gold and time you must spend to copy an enchantment spell into your spellbook is halved.
+
+Source:	Player&#39;s Handbook (2014) p. 117</text><optional>1</optional></feat><feat><name>Level 3: Hypnotic Gaze (School of Enchantment (Legacy))</name><text>Starting at 3rd level when you choose this school, your soft words and enchanting gaze can magically enthrall another creature.
+	As an action, choose one creature that you can see within 5 feet of you. If the target can see or hear you, it must succeed on a Wisdom saving throw against your wizard spell save DC or be charmed by you until the end of your next turn. The charmed creature&#39;s speed drops to 0, and the creature is incapacitated and visibly dazed.
+	On subsequent turns, you can use your action to maintain this effect, extending its duration until the end of your next turn. However, the effect ends if you move more than 5 feet away from the creature, if the creature can neither see nor hear you, or if the creature takes damage.
+	Once the effect ends, or if the creature succeeds on its initial saving throw against this effect, you can&#39;t use this feature on that creature again until you finish a long rest.
+
+Source:	Player&#39;s Handbook (2014) p. 117</text><optional>1</optional></feat><feat><name>Wizard Subclass: School of Necromancy (Legacy)</name><text>The School of Necromancy explores the cosmic forces of life, death, and undeath. As you focus your studies in this tradition, you learn to manipulate the energy that animates all living things. As you progress, you learn to sap the life force from a creature as your magic destroys its body, transforming that vital energy into magical power you can manipulate.
+	Most people see necromancers as menacing, or even villainous, due to the close association with death. Not all necromancers are evil, but the forces they manipulate are considered taboo by many societies.
+
+Source:	Player&#39;s Handbook (2014) p. 118</text><optional>1</optional></feat><feat><name>Level 3: Necromancy Savant (School of Necromancy (Legacy))</name><text>Beginning when you select this school at 3rd level, the gold and time you must spend to copy a necromancy spell into your spellbook is halved.
+
+Source:	Player&#39;s Handbook (2014) p. 118</text><optional>1</optional></feat><feat><name>Level 3: Grim Harvest (School of Necromancy (Legacy))</name><text>At 3rd level, you gain the ability to reap life energy from creatures you kill with your spells. Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell&#39;s level, or three times its level if the spell belongs to the School of Necromancy. You don&#39;t gain this benefit for killing constructs or undead.
+
+Source:	Player&#39;s Handbook (2014) p. 118</text><optional>1</optional></feat><feat><name>Wizard Subclass: School of Transmutation (Legacy)</name><text>You are a student of spells that modify energy and matter. To you, the world is not a fixed thing, but eminently mutable, and you delight in being an agent of change. You wield the raw stuff of creation and learn to alter both physical forms and mental qualities. Your magic gives you the tools to become a smith on reality&#39;s forge.
+	Some transmuters are tinkerers and pranksters, turning people into toads and transforming copper into silver for fun and occasional profit. Others pursue their magical studies with deadly seriousness, seeking the power of the gods to make and destroy worlds.
+
+Source:	Player&#39;s Handbook (2014) p. 119</text><optional>1</optional></feat><feat><name>Level 3: Transmutation Savant (School of Transmutation (Legacy))</name><text>Beginning when you select this school at 3rd level, the gold and time you must spend to copy a transmutation spell into your spellbook is halved.
+
+Source:	Player&#39;s Handbook (2014) p. 119</text><optional>1</optional></feat><feat><name>Level 3: Minor Alchemy (School of Transmutation (Legacy))</name><text>Starting at 3rd level when you select this school, you can temporarily alter the physical properties of one nonmagical object, changing it from one substance into another. You perform a special alchemical procedure on one object composed entirely of wood, stone (but not a gemstone), iron, copper, or silver, transforming it into a different one of those materials. For each 10 minutes you spend performing the procedure, you can transform up to 1 cubic foot of material. After 1 hour, or until you lose your concentration (as if you were concentrating on a spell), the material reverts to its original substance.
+
+Source:	Player&#39;s Handbook (2014) p. 119</text><optional>1</optional></feat><feat><name>Wizard Subclass: War Magic (Legacy)</name><text>A variety of arcane colleges specialize in training wizards for war. The tradition of War Magic blends principles of evocation and abjuration, rather than specializing in either of those schools. It teaches techniques that empower a caster&#39;s spells, while also providing methods for wizards to bolster their own defenses.
+	Followers of this tradition are known as war mages. They see their magic as both a weapon and armor, a resource superior to any piece of steel. War mages act fast in battle, using their spells to seize tactical control of a situation. Their spells strike hard, while their defensive skills foil their opponents&#39; attempts to counterattack. War mages are also adept at turning other spellcasters&#39; magical energy against them.
+	In great battles, a war mage often works with evokers, abjurers, and other types of wizards. Evokers, in particular, sometimes tease war mages for splitting their attention between offense and defense. A war mage&#39;s typical response: &#34;What good is being able to throw a mighty fireball if I die before I can cast it?&#34;
+
+Source:	Xanathar&#39;s Guide to Everything p. 59</text><optional>1</optional></feat><feat><name>Level 3: Arcane Deflection (War Magic (Legacy))</name><text>At 3rd level, you have learned to weave your magic to fortify yourself against harm. When you are hit by an attack or you fail a saving throw, you can use your reaction to gain a +2 bonus to your AC against that attack or a +4 bonus to that saving throw.
+	When you use this feature, you can&#39;t cast spells other than cantrips until the end of your next turn.
+
+Source:	Xanathar&#39;s Guide to Everything p. 59</text><optional>1</optional></feat><feat><name>Level 3: Tactical Wit (War Magic (Legacy))</name><text>Starting at 3rd level, your keen ability to assess tactical situations allows you to act quickly in battle. You can give yourself a bonus to your initiative rolls equal to your Intelligence modifier.
+
+Source:	Xanathar&#39;s Guide to Everything p. 59</text><optional>1</optional></feat><feat><name>Wizard Subclass: Chronurgy Magic (Legacy)</name><text>Focusing on the manipulation of time, those who follow the Chronurgy tradition learn to alter the pace of reality to their liking. Using the ramping of anticipatory dunamis energy, these mages can bend the flow of time as adroitly as a skilled musician plays an instrument, lending themselves and their allies an advantage in the blink of an eye.
+
+Source:	Explorer&#39;s Guide to Wildemount p. 184</text><optional>1</optional></feat><feat><name>Level 3: Chronal Shift (Chronurgy Magic (Legacy))</name><text>You can magically exert limited control over the flow of time around a creature. As a reaction, after you or a creature you can see within 30 feet of you makes an attack roll, an ability check, or a saving throw, you can force the creature to reroll. You make this decision after you see whether the roll succeeds or fails. The target must use the result of the second roll.
+	You can use this ability twice, and you regain any expended uses when you finish a long rest.
+
+Source:	Explorer&#39;s Guide to Wildemount p. 184</text><optional>1</optional></feat><feat><name>Level 3: Temporal Awareness (Chronurgy Magic (Legacy))</name><text>You can add your Intelligence modifier to your initiative rolls.
+
+Source:	Explorer&#39;s Guide to Wildemount p. 184</text><optional>1</optional></feat><feat><name>Wizard Subclass: Graviturgy Magic (Legacy)</name><text>Understanding and mastering the forces that draw bodies of matter together or drive them apart, the students of the Graviturgy arcane tradition learn to further bend and manipulate the violent energy of gravity to their benefit, and the terrible detriment of their enemies.
+
+Source:	Explorer&#39;s Guide to Wildemount p. 185</text><optional>1</optional></feat><feat><name>Level 3: Adjust Density (Graviturgy Magic (Legacy))</name><text>As an action, you can magically alter the weight of one object or creature you can see within 30 feet of you. The object or creature must be Large or smaller. The target&#39;s weight is halved or doubled for up to 1 minute or until your concentration ends (as if you were concentrating on a spell).
+	While the weight of a creature is halved by this effect, the creature&#39;s speed increases by 10 feet, it can jump twice as far as normal, and it has disadvantage on Strength checks and Strength saving throws. While the weight of a creature is doubled by this effect, the creature&#39;s speed is reduced by 10 feet, and it has advantage on Strength checks and Strength saving throws.
+	Upon reaching 10th level in this class, you can target an object or a creature that is Huge or smaller.
+
+Source:	Explorer&#39;s Guide to Wildemount p. 185</text><optional>1</optional></feat><feat><name>Wizard Subclass: Bladesinging (Legacy)</name><text>Bladesingers are elves who bravely defend their people and lands. They are elf wizards who master a school of sword fighting grounded in a tradition of arcane magic.
+	In combat, a bladesinger uses a series of intricate, elegant maneuvers that fend off harm and allow the bladesinger to channel magic into devastating attacks and a cunning defense. Many who have observed a bladesinger at work remember the display as one of the more beautiful experiences in their life, a glorious dance accompanied by a singing blade.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 76,
+		Sword Coast Adventurer&#39;s Guide p. 141</text><optional>1</optional></feat><feat><name>Level 3: Restriction: Elves Only (Bladesinging (Legacy))</name><text>Only elves and half-elves can choose the bladesinger arcane tradition. In the world of Faerûn, elves closely guard the secrets of bladesinging.
+	Your DM can lift this restriction to better suit the campaign. The restriction reflects the story of bladesingers in the Forgotten Realms, but it might not apply to your DM&#39;s setting or your DM&#39;s version of the Realms.
+
+Source:	Sword Coast Adventurer&#39;s Guide p. 141</text><optional>1</optional></feat><feat><name>Level 3: Bladesinger Styles (Bladesinging (Legacy))</name><text>From its inception as a martial and magical art, Bladesinging has been tied to the sword, more specifically the longsword. Yet many generations of study gave rise to various styles of Bladesinging based on the melee weapon employed. The techniques of these styles are passed from master to students in small schools, some of which have a building dedicated to instruction. Even the newest styles are hundreds of years old, but are still taught by their original creators due to the long lives of elves. Most schools of Bladesinging are in Evermeet or Evereska. One was started in Myth Drannor, but the city&#39;s destruction has scattered those students who survived.
+	Styles of Bladesinging are broadly categorized based on the type of weapon employed, and each is associated with a category of animal. Within that style are specializations named after specific animal types, based on the types of spells employed, the techniques of the master, and the particular weapon used. Bladesingers who apprentice to a master typically get a tattoo of their chosen style&#39;s animal. Some bladesingers learn multiple styles and bear many tattoos, wearing a warning on their skin of their deadly skills.
+
+Cat. Styles that employ a sword belong to this family. The lion style, the eldest, trains practitioners in the use of the longsword and doesn&#39;t favor any particular type of spells. Leopard style focuses on the shortsword and spells of illusion and stealth. Red tiger, a style just three centuries old, has its bladesingers using the scimitar in a whirling dance of defense from which they launch into sudden leaps and attacks.
+
+Bird. Styles that focus on the use of a hafted weapon, such as an axe or hammer, have been grouped together as bird styles, yet they vary wildly. All relatively new styles, they use weapons not typically favored by elves. Eagle-style bladesingers use small handaxes, and many maneuvers in the style focus on fluid ways to throw the weapon and draw a new one. Raven style uses a war pick, and spells associated with it grant the bladesinger more agility in combat.
+
+Snake. Practitioners of these styles use a flail, chain, or whip. Viper style uses a whip, despite its inelegance as a weapon, and has almost as long a history as the lion style. Its masters punctuate their bladesong with a stunningly rapid rhythm of whip cracks, which can keep many foes at bay and allow the bladesinger space to cast the cruel spells of poison and disease favored by the style.
+
+Source:	Sword Coast Adventurer&#39;s Guide p. 141</text><optional>1</optional></feat><feat><name>Level 3: Training in War and Song (Bladesinging (Legacy))</name><text>When you adopt this tradition at 3rd level, you gain proficiency with light armor, and you gain proficiency with one type of one-handed melee weapon of your choice.
+	You also gain proficiency in the Performance skill if you don&#39;t already have it.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 76,
+		Sword Coast Adventurer&#39;s Guide p. 141</text><optional>1</optional><proficiency>112</proficiency></feat><feat><name>Level 3: Bladesong (Bladesinging (Legacy))</name><text>Starting at 3rd level, you can invoke a secret elven magic called the Bladesong, provided you aren&#39;t wearing medium or heavy armor or using a shield. It graces you with supernatural speed, agility, and focus.
+	You can use a bonus action to start the Bladesong, which lasts for 1 minute. It ends early if you are incapacitated, if you don medium or heavy armor or a shield, or if you use two hands to make an attack with a weapon. You can also dismiss Bladesong at any time you choose (no action required).
+	While your bladesong is active, you gain the following benefits:
+
+	• You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1).
+
+	• Your walking speed increases by 10 feet.
+
+	• You have advantage on Dexterity (Acrobatics) checks.
+
+	• You gain a bonus to any Constitution saving throws you make to maintain concentration on a spell. The bonus equals your Intelligence modifier (minimum of +1).
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 76,
+		Sword Coast Adventurer&#39;s Guide p. 141</text><optional>1</optional></feat><feat><name>Wizard Subclass: Order of Scribes (Legacy)</name><text>Magic of the book-that&#39;s what many folk call wizardry. The name is apt, given how much time wizards spend poring over tomes and penning theories about the nature of magic. It&#39;s rare to see wizards traveling without books and scrolls sprouting from their bags, and a wizard would go to great lengths to plumb an archive of ancient knowledge.
+	Among wizards, the Order of Scribes is the most bookish. It takes many forms in different worlds, but its primary mission is the same everywhere: recording magical discoveries so that wizardry can flourish. And while all wizards value spellbooks, a wizard in the Order of Scribes magically awakens their book, turning it into a trusted companion. All wizards study books, but a wizardly scribe talks to theirs!
+
+Source:	Tasha&#39;s Cauldron of Everything p. 77</text><optional>1</optional></feat><feat><name>Level 3: Wizardly Quill (Order of Scribes (Legacy))</name><text>As a bonus action, you can magically create a Tiny quill in your free hand. The magic quill has the following properties:
+
+	• The quill doesn&#39;t require ink. When you write with it, it produces ink in a color of your choice on the writing surface.
+
+	• The time you must spend to copy a spell into your spellbook equals 2 minutes per spell level if you use the quill for the transcription.
+
+	• You can erase anything you write with the quill if you wave the feather over the text as a bonus action, provided the text is within 5 feet of you.
+
+This quill disappears if you create another one or if you die.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 77</text><optional>1</optional></feat><feat><name>Level 3: Awakened Spellbook (Order of Scribes (Legacy))</name><text>Using specially prepared inks and ancient incantations passed down by your wizardly order, you have awakened an arcane sentience within your spellbook.
+	While you are holding the book, it grants you the following benefits:
+
+	• You can use the book as a spellcasting focus for your wizard spells.
+
+	• When you cast a wizard spell with a spell slot, you can temporarily replace its damage type with a type that appears in another spell in your spellbook, which magically alters the spell&#39;s formula for this casting only. The latter spell must be of the same level as the spell slot you expend.
+
+	• When you cast a wizard spell as a ritual, you can use the spell&#39;s normal casting time, rather than adding 10 minutes to it. Once you use this benefit, you can&#39;t do so again until you finish a long rest.
+
+If necessary, you can replace the book over the course of a short rest by using your Wizardly Quill to write arcane sigils in a blank book or a magic spellbook to which you&#39;re attuned. At the end of the rest, your spellbook&#39;s consciousness is summoned into the new book, which the consciousness transforms into your spellbook, along with all its spells. If the previous book still existed somewhere, all the spells vanish from its pages.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 77</text><optional>1</optional></feat><feat><name>Wizard Subclass: Blood Magic (Legacy)</name><text>Considered taboo by many societies and magic practitioners, the use of blood magic—also known as hemocraft—is a rare art that harnesses the latent powers of a creature&#39;s vitality to fuel and amplify the caster&#39;s own capabilities, while manipulating and weakening the bodies of enemies from the inside. Some of the more macabre mages seeking to empower their arcane pursuits turn to hemocraft as a means of bolstering their spells, giving their own life&#39;s blood to reach new heights of frightening magical prowess.
+	The secrets of hemocraft and other forms of blood magic were once the sole purview of the mysterious Claret Orders. In recent years, however, these secrets have begun to spread beyond the order&#39;s members and into the hands of less scrupulous mages. Blood magic has a bad reputation in Tal&#39;Dorei, even though its powers can be used for much more than evil.
+
+Source:	Tal&#39;Dorei Campaign Setting: Reborn p. 178</text><optional>1</optional></feat><feat><name>Level 3: Blood Channeling (Blood Magic (Legacy))</name><text>When you choose this arcane tradition at 3rd level, you are able to use your own depleted life essence to channel your magical abilities. Whenever your current hit points are below your hit point maximum, you can use your own body as an arcane focus.
+	In addition, when casting a wizard spell that requires a costly material component, you can forego the component by taking 1d10 necrotic damage per 50 gp of the cost of the component (minimum 1d10). This damage can&#39;t be reduced in any way. If this damage reduces you to 0 hit points, the spell fails but the spell slot is not expended.
+
+Source:	Tal&#39;Dorei Campaign Setting: Reborn p. 178</text><optional>1</optional></feat><feat><name>Level 3: Sanguine Burst (Blood Magic (Legacy))</name><text>Also at 3rd level, you learn how to weave your life force into a spell you cast, boosting its intensity at the cost of your vitality. Whenever you roll damage for a spell you&#39;ve cast of 1st level or higher, you can choose to take necrotic damage equal to the spell&#39;s level to reroll a number of the damage dice up to your Intelligence modifier (minimum one). This damage can&#39;t be reduced in any way, and you must use the new rolls.
+
+Source:	Tal&#39;Dorei Campaign Setting: Reborn p. 179</text><optional>1</optional></feat><feat><name>Wizard Subclass: School of Biomancy (HB) (Legacy)</name><text>Practitioners of biomancy tend to have a growth mindset and an endless propensity for self-improvement. You likely bear symptoms of this continual desire to improve yourself: patches of scales, manes of peacock feathers, hawk&#39;s eyes, adhesive palms, gills... the list is as long as there are ideas to try. Biomancers are masters of biomantically-enhanced surgery, transplanting specially-grown (or amputated) appendages onto other creatures.
+
+Source:	Heliana&#39;s Guide to Monster Hunting - Part One p. 216</text><optional>1</optional></feat><feat><name>Level 3: Biomancy Savant (School of Biomancy (HB) (Legacy))</name><text>Beginning when you select this school at 3rd level, the gold and time you must spend to copy a biomancy spell into your spellbook is halved. In addition, you gain proficiency with surgeon&#39;s tools, and the following spells are considered biomancy spells for you instead of their normal school.
+
+Biomancy Spells:
+Level | Spells
+1st | false life, longstrider
+2nd | alter self, dark vision, spider climb
+3rd | haste, water breathing
+4th | stoneskin
+6th | flesh to stone
+7th | simulacrum
+9th | shape change
+
+Source:	Heliana&#39;s Guide to Monster Hunting - Part One p. 216</text><optional>1</optional></feat><feat><name>Level 3: Biostimulation (School of Biomancy (HB) (Legacy))</name><text>You learn to channel biomantic magic into your cells, restoring your vitality. When you use a spell slot to cast a biomancy spell of 1st level or higher, you can simultaneously redirect a strand of the spell&#39;s magic to energise and repair you or your target&#39;s body. You or your target (your choice) regains a number of hit points equal to twice the spell&#39;s level.
+
+Source:	Heliana&#39;s Guide to Monster Hunting - Part One p. 216</text><optional>1</optional></feat><tracker><label>Arcane Ward</label><resetType>2</resetType><value>1</value><formula>1</formula></tracker><tracker><label>Portent</label><resetType>2</resetType><value>2</value><formula>2</formula></tracker><tracker><label>Wondrous Alteration</label><resetType>2</resetType><value>1</value><formula>1</formula></tracker><tracker><label>Hypnotic Gaze</label><resetType>2</resetType><value>1</value><formula>1</formula></tracker><tracker><label>Chronal Shift</label><resetType>2</resetType><value>2</value><formula>2</formula></tracker><tracker><label>Bladesong</label><resetType>2</resetType><value>2</value><formula>2</formula></tracker></autolevel><autolevel><level>4</level><scoreImprovement>1</scoreImprovement><slots>4,4,3,0,0,0,0,0,0,0,</slots><feat><name>Level 4: Ability Score Improvement</name><text>You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
+
+Source:	Player&#39;s Handbook (2024) p. 167</text></feat></autolevel><autolevel><level>5</level><slots>4,4,3,2,0,0,0,0,0,0,</slots><feat><name>Level 5: Memorize Spell</name><text>Whenever you finish a Short Rest, you can study your spell book and replace one of the level 1+ Wizard spells you have prepared for your Spellcasting feature with another level 1+ spell from the book.
+
+Source:	Player&#39;s Handbook (2024) p. 167</text></feat><tracker><label>Bladesong</label><resetType>2</resetType><value>3</value><formula>3</formula></tracker></autolevel><autolevel><level>6</level><slots>4,4,3,3,0,0,0,0,0,0,</slots><feat><name>Level 6: Projected Ward (Abjurer)</name><text>When a creature that you can see within 30 feet of yourself takes damage, you can take a Reaction to cause your Arcane Ward to absorb that damage. If this damage reduces the ward to 0 Hit Points, the warded creature takes any remaining damage. If that creature has any Resistances or Vulnerabilities, apply them before reducing the ward&#39;s Hit Points.
+
+Source:	Player&#39;s Handbook (2024) p. 172</text><optional>1</optional></feat><feat><name>Level 6: Expert Divination (Diviner)</name><text>Casting Divination spells comes so easily to you that it expends only a fraction of your spellcasting efforts. When you cast a Divination spell using a level 2+ spell slot, you regain one expended spell slot. The slot you regain must be of a level lower than the slot you expended and can&#39;t be higher than level 5.
+
+Source:	Player&#39;s Handbook (2024) p. 173</text><optional>1</optional></feat><feat><name>Level 6: Sculpt Spells (Evoker)</name><text>You can create pockets of relative safety within the effects of your evocations. When you cast an Evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 plus the spell&#39;s level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.
+
+Source:	Player&#39;s Handbook (2024) p. 174</text><optional>1</optional></feat><feat><name>Level 6: Phantasmal Creatures (Illusionist)</name><text>You always have the Summon Beast and Summon Fey spells prepared. Whenever you cast either spell, you can change its school to Illusion, which causes the summoned creature to appear spectral. You can cast the Illusion version of each spell without expending a spell slot, but casting it without a slot halves the creature&#39;s Hit Points. Once you cast either spell without a spell slot, you must finish a Long Rest before you can cast the spell in that way again.
+
+Source:	Player&#39;s Handbook (2024) p. 175</text><optional>1</optional></feat><feat><name>Level 6: Extra Attack (Bladesinger (UA))</name><text>You can attack twice, instead of once, whenever you take the Attack action on your turn. Moreover, you can cast one of your Wizard cantrips that has a casting time of an action in place of one of those attacks.
+
+Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 9</text><optional>1</optional></feat><feat><name>Level 6: Distant Transposition (Conjurer (UA))</name><text>The range of your Benign Transposition feature increases to 60 feet. Additionally, you regain your expended use of it when you finish a Short or Long Rest.
+
+Source:	UA25-ArcaneSubclasses p. 8</text><optional>1</optional></feat><feat><name>Level 6: Durable Summons (Conjurer (UA))</name><text>When you cast a Conjuration spell to summon or create another creature using a spell slot, that creature gains Temporary Hit Points equal to twice your Wizard level when it first appears.
+
+Source:	UA25-ArcaneSubclasses p. 8</text><optional>1</optional></feat><feat><name>Level 6: Reflecting Charm (Enchanter (UA))</name><text>When a creature within 30 feet of you that you can see hits you with an attack roll, you can take a Reaction to reduce the damage you take by half (round down), and you can force the attacker to make a Wisdom saving throw against your spell save DC. On a failed save, the attacker takes Psychic damage equal to half your Wizard level plus your Intelligence modifier. Once you use this Reaction, you can&#39;t do so again until you finish a Long Rest. You can also restore your use of it by expending a level 2+ spell slot (no action required).
+
+Source:	UA25-ArcaneSubclasses p. 9</text><optional>1</optional></feat><feat><name>Level 6: Grave Power (Necromancer (UA))</name><text>You have discovered more necromantic insights and inscribed them into your spellbook. While holding your spellbook, you gain the following benefits.
+
+Grave Resilience. When you use Arcane Recovery, your Exhaustion level, if any, decreases by 1.
+
+Overwhelming Necrosis. Damage from your Wizard spells and Wizard features ignores Resistance to Necrotic damage.
+
+Source:	UA25-ArcaneSubclasses p. 9</text><optional>1</optional></feat><feat><name>Level 6: Undead Thralls (Necromancer (UA))</name><text>You always have Summon Undead prepared and can cast it once without expending a spell slot.
+	When you cast Summon Undead without a spell slot, you can regain Hit Points equal to half the summoned creature&#39;s total Hit Points, but doing so halves the creature&#39;s Hit Points. Once you cast the spell without a spell slot, you must finish a Long Rest before you can cast the spell in this way again.
+
+Source:	UA25-ArcaneSubclasses p. 10</text><optional>1</optional></feat><feat><name>Level 6: Split Transmutation (Transmuter (UA))</name><text>When you cast a Transmutation spell, such as Fly, that can be cast with a higher-level spell slot to target an additional creature, increase the spell&#39;s effective level by 1.
+	You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+
+Source:	UA25-ArcaneSubclasses p. 11</text><optional>1</optional></feat><feat><name>Level 6: Distant Transposition (Conjurer (UA))</name><text>The range of your Benign Transposition feature increases to 60 feet. Additionally, you now regain all expended uses of it when you finish a Short or Long Rest.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 5</text><optional>1</optional></feat><feat><name>Level 6: Durable Summons (Conjurer (UA))</name><text>When you cast a Conjuration spell to summon or create a creature using a spell slot, that creature gains Temporary Hit Points equal to twice your Wizard level when it first appears. While it has these Temporary Hit Points, the creature has Resistance to every damage type except Force, Necrotic, Psychic, and Radiant.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 6</text><optional>1</optional></feat><feat><name>Level 6: Split Enchantment (Enchanter (UA))</name><text>When you cast an Enchantment spell, such as Charm Person, that can be cast with a higher level spell slot to target an additional creature, you can increase the spell&#39;s effective level by 1.
+	You can use this feature a number of times equal to your Intelligence modifier and regain all expended uses when you finish a Long Rest.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 7</text><optional>1</optional></feat><feat><name>Level 6: Grave Power (Necromancer (UA))</name><text>You have discovered more necromantic insights and inscribed them in your spellbook. While holding your spellbook, you gain the following benefits.
+
+Grave Resilience. When you use Arcane Recovery, your Exhaustion level, if any, decreases by 1.
+
+Overwhelming Necrosis. Damage from your Wizard spells and Wizard features ignores Resistance to Necrotic damage.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 8</text><optional>1</optional></feat><feat><name>Level 6: Undead Thralls (Necromancer (UA))</name><text>You always have Animate Dead prepared and can cast it once without expending a spell slot. Whenever you start casting the spell, you can modify it so that the spell&#39;s effective level is increased by 1.
+	In addition, whenever you cast a Necromancy spell using a spell slot that creates or summons an Undead, the Undead gains the benefits below.
+
+Undead Fortitude. The Undead&#39;s Hit Point maximum and current Hit points increase by a number equal to the level of the spell slot used plus your Intelligence modifier for the duration of the spell.
+
+Withering Strike. Whenever the Undead hits a creature with an attack roll, the Undead deals extra Necrotic damage equal to your Intelligence modifier (minimum of 1 Necrotic damage).
+
+Source:	UA25-ArcaneSubclassesUpdate p. 8</text><optional>1</optional></feat><feat><name>Level 6: Empowered Transmutation (Transmuter (UA))</name><text>When you cast a Transmutation spell that doesn&#39;t deal damage, such as Fly or Magical Weapon, using a spell slot, you can treat the spell as if it were cast using a spell slot 1 level above the slot expended.
+	You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 9</text><optional>1</optional></feat><feat><name>Level 6: Benign Transposition (School of Conjuration (Legacy))</name><text>Starting at 6th level, you can use your action to teleport up to 30 feet to an unoccupied space that you can see. Alternatively, you can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, you both teleport, swapping places.
+	Once you use this feature, you can&#39;t use it again until you finish a long rest or you cast a conjuration spell of 1st level or higher.
+
+Source:	Player&#39;s Handbook (2014) p. 116</text><optional>1</optional></feat><feat><name>Level 6: Instinctive Charm (School of Enchantment (Legacy))</name><text>Beginning at 6th level, when a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack&#39;s range. The attacker must make a Wisdom saving throw against your wizard spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, you can&#39;t use this feature on the attacker again until you finish a long rest.
+	You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can&#39;t be charmed are immune to this effect.
+
+Source:	Player&#39;s Handbook (2014) p. 117</text><optional>1</optional></feat><feat><name>Level 6: Undead Thralls (School of Necromancy (Legacy))</name><text>At 6th level, you add the animate dead spell to your spellbook if it is not there already. When you cast animate dead, you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.
+	Whenever you create an undead using a necromancy spell, it has additional benefits:
+
+	• The creature&#39;s hit point maximum is increased by an amount equal to your wizard level.
+	• The creature adds your proficiency bonus to its weapon damage rolls.
+
+Source:	Player&#39;s Handbook (2014) p. 118</text><optional>1</optional></feat><feat><name>Level 6: Transmuter&#39;s Stone (School of Transmutation (Legacy))</name><text>Starting at 6th level, you can spend 8 hours creating a transmuter&#39;s stone that stores transmutation magic. You can benefit from the stone yourself or give it to another creature. A creature gains a benefit of your choice as long as the stone is in the creature&#39;s possession. When you create the stone, choose the benefit from the following options:
+
+	• Darkvision out to a range of 60 feet, as described in chapter 8.
+
+	• An increase to speed of 10 feet while the creature is unencumbered.
+
+	• Proficiency in Constitution saving throws.
+
+	• Resistance to acid, cold, fire, lightning, or thunder damage (your choice whenever you choose this benefit).
+
+Each time you cast a transmutation spell of 1st level or higher, you can change the effect of your stone if the stone is on your person.
+	If you create a new transmuter&#39;s stone, the previous one ceases to function.
+
+Source:	Player&#39;s Handbook (2014) p. 119</text><optional>1</optional></feat><feat><name>Level 6: Power Surge (War Magic (Legacy))</name><text>Starting at 6th level, you can store magical energy within yourself to later empower your damaging spells. In its stored form, this energy is called a power surge.
+	You can store a maximum number of power surges equal to your Intelligence modifier (minimum of one). Whenever you finish a long rest, your number of power surges resets to one. Whenever you successfully end a spell with dispel magic or counterspell, you gain one power surge, as you steal magic from the spell you foiled. If you end a short rest with no power surges, you gain one power surge.
+	Once per turn when you deal damage to a creature or object with a wizard spell, you can spend one power surge to deal extra force damage to that target. The extra damage equals half your wizard level.
+
+Source:	Xanathar&#39;s Guide to Everything p. 59</text><optional>1</optional></feat><feat><name>Level 6: Momentary Stasis (Chronurgy Magic (Legacy))</name><text>As an action, you can magically force a Large or smaller creature you can see within 60 feet of you to make a Constitution saving throw against your spell save DC. Unless the saving throw is a success, the creature is encased in a field of magical energy until the end of your next turn or until the creature takes any damage. While encased in this way, the creature is incapacitated and has a speed of 0.
+	You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+
+Source:	Explorer&#39;s Guide to Wildemount p. 184</text><optional>1</optional></feat><feat><name>Level 6: Gravity Well (Graviturgy Magic (Legacy))</name><text>You&#39;ve learned how to manipulate gravity around a living being: whenever you cast a spell on a creature, you can move the target 5 feet to an unoccupied space of your choice if the target is willing to move, the spell hits it with an attack, or it fails a saving throw against the spell.
+
+Source:	Explorer&#39;s Guide to Wildemount p. 185</text><optional>1</optional></feat><feat><name>Level 6: Extra Attack (Bladesinging (Legacy))</name><text>Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. Moreover, you can cast one of your cantrips in place of one of those attacks.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 76,
+		Sword Coast Adventurer&#39;s Guide p. 141</text><optional>1</optional></feat><feat><name>Level 6: Manifest Mind (Order of Scribes (Legacy))</name><text>You can conjure forth the mind of your Awakened Spellbook. As a bonus action while the book is on your person, you can cause the mind to manifest as a Tiny spectral object, hovering in an unoccupied space of your choice within 60 feet of you. The spectral mind is intangible and doesn&#39;t occupy its space, and it sheds dim light in a 10-foot radius. It looks like a ghostly tome, a cascade of text, or a scholar from the past (your choice).
+	While manifested, the spectral mind can hear and see, and it has darkvision with a range of 60 feet. The mind can telepathically share with you what it sees and hears (no action required).
+	Whenever you cast a wizard spell on your turn, you can cast it as if you were in the spectral mind&#39;s space, instead of your own, using its senses. You can do so a number of times per day equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+	As a bonus action, you can cause the spectral mind to hover up to 30 feet to an unoccupied space that you or it can see. It can pass through creatures but not objects.
+	The spectral mind stops manifesting if it is ever more than 300 feet away from you, if someone casts dispel magic on it, if the Awakened Spellbook is destroyed, if you die, or if you dismiss the spectral mind as a bonus action.
+	Once you conjure the mind, you can&#39;t do so again until you finish a long rest, unless you expend a spell slot of any level to conjure it again.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 77</text><optional>1</optional></feat><feat><name>Level 6: Bond of Mutual Suffering (Blood Magic (Legacy))</name><text>At 6th level, when a creature you can see hits you with an attack, you can use your reaction to bind your vitality to the attacker and force them to share your pain. The attacker takes damage equal to the damage you took.
+	This feature cannot be used against constructs or undead. You can use this feature once. You must finish a short or long rest before you can use it again.
+	At 14th level, you can use this feature twice between rests.
+
+Source:	Tal&#39;Dorei Campaign Setting: Reborn p. 179</text><optional>1</optional></feat><feat><name>Level 6: Self Improvement (School of Biomancy (HB) (Legacy))</name><text>You can perform minor surgery on your body, improving yourself in a very literal sense. Over the course of 1 hour (which can be done during a rest), you can enhance yourself with one bio-magical improvement, choosing from the following options:
+
+	• Amphibisprings. With enhanced quads and a ratcheting mechanism in your achilles, your jumping distance is tripled.
+
+	• Extra Appendage. You gain a prehensile tail or an extra arm, allowing you to hold one more thing and conferring advantage on any ability checks you make to climb.
+
+	• Detachable Hand. As an action, you can detach your hand and imbue it with biomantic magic. The hand follows the rules of the unseen servant spell, except it is not invisible and waits patiently if ever more than 60 feet away from you. If your hand is ever reduced to 0 hit points, it is destroyed, and you grow a new one over the course of a short or long rest.
+
+	• Firefly Skin. You can cast the light cantrip at will with yourself as the target. As a bonus action, you can flash brightly for a moment; each creature within 5 feet of you that can see you must succeed on a Constitution saving throw against your wizard spell save DC or be blinded until the end of your next turn. After you use this bonus action, you can&#39;t do so again until you finish a short or long rest.
+
+	• Owl Eyes. You gain darkvision out to a range of 120 feet.
+
+	• Slime. You exude slime; checks made to grapple you have disadvantage.
+
+	• Scales. Your skin is covered in overlapping scales. You gain a +1 bonus to AC when you aren&#39;t wearing armor.
+
+	• Spidersense. You gain a 1d4 bonus to your initiative rolls.
+
+	• Talon. One of your hands is replaced with a wicked giant hawk&#39;s talon, a natural weapon that you can use to make unarmed strikes. If you hit with it, you deal slashing damage equal to 1d8 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. If you are grappling a creature with this talon, you can automatically deal this damage to the grappled creature once on each of your turns as a bonus action.
+
+	• Third Leg. Your speed increases by 10 feet and you have advantage on ability checks and saving throws made against effects that would knock you prone.
+
+	• Trimorphism. You can cast the enlarge/reduce spell on yourself at will (no material components or concentration required).
+
+Your body has enough latent biomantic magic to sustain one improvement at a time. When you reach 10th and 14th level, you can sustain up to two and three improvements at a time, respectively. If you gain a new improvement while you have your maximum number of sustainable improvements active, you must choose one improvement to lose; this improvement withers away and ceases to function the moment you finish the surgery on your new improvement.
+
+Source:	Heliana&#39;s Guide to Monster Hunting - Part One p. 216</text><optional>1</optional></feat><tracker><label>Phantasmal Creatures</label><resetType>2</resetType><value>1</value><formula>1</formula></tracker><tracker><label>Empowered Transmutation</label><resetType>2</resetType><value>1</value><formula>1</formula></tracker><tracker><label>Benign Transposition</label><resetType>2</resetType><value>1</value><formula>1</formula></tracker><tracker><label>Bond of Mutual Suffering</label><resetType>1</resetType><value>1</value><formula>1</formula></tracker></autolevel><autolevel><level>7</level><slots>4,4,3,3,1,0,0,0,0,0,</slots></autolevel><autolevel><level>8</level><scoreImprovement>1</scoreImprovement><slots>4,4,3,3,2,0,0,0,0,0,</slots><feat><name>Level 8: Ability Score Improvement</name><text>You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
+
+Source:	Player&#39;s Handbook (2024) p. 167</text></feat></autolevel><autolevel><level>9</level><slots>4,4,3,3,3,1,0,0,0,0,</slots><tracker><label>Bladesong</label><resetType>2</resetType><value>4</value><formula>4</formula></tracker></autolevel><autolevel><level>10</level><slots>5,4,3,3,3,2,0,0,0,0,</slots><feat><name>Level 10: Spell Breaker (Abjurer)</name><text>You always have the Counterspell and Dispel Magic spells prepared. In addition, you can cast Dispel Magic as a Bonus Action, and you can add your Proficiency Bonus to its ability check.
+	When you cast either spell with a spell slot, that slot isn&#39;t expended if the spell fails to stop a spell.
+
+Source:	Player&#39;s Handbook (2024) p. 172</text><optional>1</optional></feat><feat><name>Level 10: The Third Eye (Diviner)</name><text>You can increase your powers of perception. As a Bonus Action, choose one of the following benefits, which lasts until you start a Short or Long Rest. You can&#39;t use this feature again until you finish a Short or Long Rest.
+
+Darkvision. You gain Darkvision with a range of 120 feet.
+
+Greater Comprehension. You can read any language.
+
+See Invisibility. You can cast See Invisibility without expending a spell slot.
+
+Source:	Player&#39;s Handbook (2024) p. 173</text><optional>1</optional></feat><feat><name>Level 10: Empowered Evocation (Evoker)</name><text>Whenever you cast a Wizard spell from the Evocation school, you can add your Intelligence modifier to one damage roll of that spell.
+
+Source:	Player&#39;s Handbook (2024) p. 174</text><optional>1</optional></feat><feat><name>Level 10: Illusory Self (Illusionist)</name><text>When a creature hits you with an attack roll, you can take a Reaction to interpose an illusory duplicate of yourself between the attacker and yourself. The attack automatically misses you, then the illusion dissipates.
+	Once you use this feature, you can&#39;t use it again until you finish a Short or Long Rest. You can also restore your use of it by expending a level 2+ spell slot (no action required).
+
+Source:	Player&#39;s Handbook (2024) p. 175</text><optional>1</optional></feat><feat><name>Level 10: Song Of Defense (Bladesinger (UA))</name><text>When you take damage while your Bladesong is active, you can take a Reaction to expend one spell slot and reduce the damage taken by an amount equal to five times the spell slot&#39;s level.
+
+Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 9</text><optional>1</optional></feat><feat><name>Level 10: Focused Conjuration (Conjurer (UA))</name><text>Taking damage can&#39;t break your Concentration on Conjuration spells.
+
+Source:	UA25-ArcaneSubclasses p. 8</text><optional>1</optional></feat><feat><name>Level 10: Split Enchantment (Enchanter (UA))</name><text>When you cast an Enchantment spell, such as Charm Person, that can be cast with a higher-level spell slot to target an additional creature, increase the spell&#39;s effective level by 1.
+
+Source:	UA25-ArcaneSubclasses p. 9</text><optional>1</optional></feat><feat><name>Level 10: Undead Secrets (Necromancer (UA))</name><text>You have learned more secrets about the nuances of life and death. When you finish a Long Rest, you can expend a level 4+ spell slot to protect yourself from death. Until you finish a Long Rest, the next time you would drop to 0 Hit Points, your Hit Points instead change to a number equal to ten times the spell slot expended.
+	In addition, immediately after you take damage and are Bloodied after taking that damage but not killed outright, you can take a Reaction and teleport to an unoccupied space up to 60 feet from yourself, and each creature within 10 feet of the space you left takes 2d10 Necrotic damage.
+
+Source:	UA25-ArcaneSubclasses p. 10</text><optional>1</optional></feat><feat><name>Level 10: Potent Stone (Transmuter (UA))</name><text>Your transmuter&#39;s stone is more versatile. You choose up to two options when you create your transmuter&#39;s stone. You can choose each option other than Resistance only once. If you choose Resistance twice, you must choose different damage types. You can change either or both benefits when you cast a Transmutation spell using a spell slot.
+
+Source:	UA25-ArcaneSubclasses p. 11</text><optional>1</optional></feat><feat><name>Level 10: Focused Conjuration (Conjurer (UA))</name><text>Taking damage can&#39;t break your Concentration on Conjuration spells.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 6</text><optional>1</optional></feat><feat><name>Level 10: Instinctive Charm (Enchanter (UA))</name><text>When a creature within 30 feet of you that you can see hits you with an attack roll, you can take a Reaction to force the attacker to make a Wisdom saving throw against your spell save DC. On a failed save, the attack misses instead, and if there is another creature within range of the attack other than the attacker, the attacker targets that creature with the triggering attack, using the same attack roll. If multiple creatures are within the attack&#39;s range, you choose which one to target.
+	Once you use this Reaction, you can&#39;t do so again until you finish a Long Rest. You can also restore your use of it by casting an Enchantment spell with a spell slot.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 7</text><optional>1</optional></feat><feat><name>Level 10: Harvest Undead (Necromancer (UA))</name><text>You have learned more secrets about the nuances of life and death. Immediately after you become Bloodied but aren&#39;t killed outright from taking damage, you can take a Reaction to reduce an Undead creature under your control that you can see to 0 Hit Points. You then immediately regain a number of Hit Points equal to your Wizard level.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 8</text><optional>1</optional></feat><feat><name>Level 10: Potent Stone (Transmuter (UA))</name><text>Your Transmuter&#39;s Stone is more versatile. When you create your Transmuter&#39;s Stone, you can choose up to two benefits. You can choose each option other than Resistance only once. If you choose Resistance twice, you must choose different damage types. You can change either or both benefits when you cast a Transmutation spell using a spell slot.
+	In addition, the following are now among your benefit options for Transmuter&#39;s Stone.
+
+Mighty Build. The bearer has Advantage on Strength saving throws. The bearer also counts as one size larger when determining its carrying capacity.
+
+Tremorsense. The bearer gains Tremorsense with a range of 30 feet.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 9</text><optional>1</optional></feat><feat><name>Level 10: Shapechanger (Transmuter (UA))</name><text>You always have the Polymorph spell prepared and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a Long Rest.
+	In addition, when you target yourself with the spell, you can modify the spell to gain the benefits below. Once you modify the spell using this feature, you can&#39;t do so again until you finish a Long Rest.
+
+Game Statistics. You retain your personality, memories, and ability to speak. You also retain your Intelligence, Wisdom, and Charisma scores;
+class features; languages; and feats.
+
+Transmute Spells. You can cast Transmutation spells while shape-shifted, except for any spell with a Material component that has a cost specified or is consumed by the spell.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 11</text><optional>1</optional></feat><feat><name>Level 10: Focused Conjuration (School of Conjuration (Legacy))</name><text>Beginning at 10th level, while you are concentrating on a conjuration spell, your concentration can&#39;t be broken as a result of taking damage.
+
+Source:	Player&#39;s Handbook (2014) p. 116</text><optional>1</optional></feat><feat><name>Level 10: Split Enchantment (School of Enchantment (Legacy))</name><text>Starting at 10th level, when you cast an enchantment spell of 1st level or higher that targets only one creature, you can have it target a second creature.
+
+Source:	Player&#39;s Handbook (2014) p. 117</text><optional>1</optional></feat><feat><name>Level 10: Inured to Undeath (School of Necromancy (Legacy))</name><text>Beginning at 10th level, you have resistance to necrotic damage, and your hit point maximum can&#39;t be reduced. You have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects.
+
+Source:	Player&#39;s Handbook (2014) p. 118</text><optional>1</optional></feat><feat><name>Level 10: Shapechanger (School of Transmutation (Legacy))</name><text>At 10th level, you add the polymorph spell to your spellbook, if it is not there already. You can cast polymorph without expending a spell slot. When you do so, you can target only yourself and transform into a beast whose challenge rating is 1 or lower.
+	Once you cast polymorph in this way, you can&#39;t do so again until you finish a short or long rest, though you can still cast it normally using an available spell slot.
+
+Source:	Player&#39;s Handbook (2014) p. 119</text><optional>1</optional></feat><feat><name>Level 10: Durable Magic (War Magic (Legacy))</name><text>Beginning at 10th level, the magic you channel helps ward off harm. While you maintain concentration on a spell, you have a +2 bonus to AC and all saving throws.
+
+Source:	Xanathar&#39;s Guide to Everything p. 59</text><optional>1</optional></feat><feat><name>Level 10: Arcane Abeyance (Chronurgy Magic (Legacy))</name><text>When you cast a spell using a spell slot of 4th level or lower, you can condense the spell&#39;s magic into a mote. The spell is frozen in time at the moment of casting and held within a gray bead for 1 hour. This bead is a Tiny object with AC 15 and 1 hit point, and it is immune to poison and psychic damage. When the duration ends, or if the bead is destroyed, it vanishes in a flash of light, and the spell is lost.
+	A creature holding the bead can use its action to release the spell within, whereupon the bead disappears. The spell uses your spell attack bonus and save DC, and the spell treats the creature who released it as the caster for all other purposes.
+	Once you create a bead with this feature, you can&#39;t do so again until you finish a short or long rest.
+
+Source:	Explorer&#39;s Guide to Wildemount p. 184</text><optional>1</optional></feat><feat><name>Level 10: Violent Attraction (Graviturgy Magic (Legacy))</name><text>When another creature that you can see within 60 feet of you hits with a weapon attack, you can use your reaction to increase the attack&#39;s velocity, causing the attack&#39;s target to take an extra 1d10 damage of the weapon&#39;s type.
+	Alternatively, if a creature within 60 feet of you takes damage from a fall, you can use your reaction to increase the fall&#39;s damage by 2d10.
+	You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+
+Source:	Explorer&#39;s Guide to Wildemount p. 185</text><optional>1</optional></feat><feat><name>Level 10: Song of Defense (Bladesinging (Legacy))</name><text>Beginning at 10th level, you can direct your magic to absorb damage while your bladesong is active. When you take damage, you can use your reaction to expend one spell slot and reduce that damage to you by an amount equal to five times the spell&#39;s slot level.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 76,
+		Sword Coast Adventurer&#39;s Guide p. 141</text><optional>1</optional></feat><feat><name>Level 10: Master Scrivener (Order of Scribes (Legacy))</name><text>Whenever you finish a long rest, you can create one magic scroll by touching your Wizardly Quill to a blank piece of paper or parchment and causing one spell from your Awakened Spellbook to be copied onto the scroll. The spellbook must be within 5 feet of you when you make the scroll.
+	The chosen spell must be of 1st or 2nd level and must have a casting time of 1 action. Once in the scroll, the spell&#39;s power is enhanced, counting as one level higher than normal. You can cast the spell from the scroll by reading it as an action. The scroll is unintelligible to anyone else, and the spell vanishes from the scroll when you cast it or when you finish your next long rest.
+	You are also adept at crafting spell scrolls, which are described in the treasure chapter of the Dungeon Master&#39;s Guide. The gold and time you must spend to make such a scroll are halved if you use your Wizardly Quill.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 77</text><optional>1</optional></feat><feat><name>Level 10: Glyph of Hemorrhaging (Blood Magic (Legacy))</name><text>Starting at 10th level, when you damage a creature with a spell, you can choose to curse that creature for 1 minute. While cursed in this way, whenever the creature is hit by an attack, it takes an extra 1d6 necrotic damage. At the end of each of the creature&#39;s turns, it can make a Constitution saving throw against your spell save DC, ending the curse on a success.
+	This feature cannot be used against creatures that are undead or constructs. Once you use this feature, you can&#39;t use it again until you finish a short or long rest.
+
+Source:	Tal&#39;Dorei Campaign Setting: Reborn p. 179</text><optional>1</optional></feat><feat><name>Level 10: Spell Splitter (School of Biomancy (HB) (Legacy))</name><text>Your fiddling self-improvement has led to the ability to benefit from the magic you create. When you cast a wizard spell that targets only one creature and doesn&#39;t have a range of self, you can choose to simultaneously target yourself with the same spell. You can use this feature a number of times equal to your Intelligence modifier (minimum once), regaining all expended uses when you finish a long rest.
+
+Source:	Heliana&#39;s Guide to Monster Hunting - Part One p. 216</text><optional>1</optional></feat><tracker><label>The Third Eye</label><resetType>1</resetType><value>1</value><formula>1</formula></tracker><tracker><label>Illusory Self</label><resetType>1</resetType><value>1</value><formula>1</formula></tracker><tracker><label>Shapechanger</label><resetType>1</resetType><value>1</value><formula>1</formula></tracker><tracker><label>Arcane Abeyance</label><resetType>1</resetType><value>1</value><formula>1</formula></tracker><tracker><label>Glyph of Hemorrhaging</label><resetType>1</resetType><value>1</value><formula>1</formula></tracker></autolevel><autolevel><level>11</level><slots>5,4,3,3,3,2,1,0,0,0,</slots></autolevel><autolevel><level>12</level><scoreImprovement>1</scoreImprovement><slots>5,4,3,3,3,2,1,0,0,0,</slots><feat><name>Level 12: Ability Score Improvement</name><text>You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
+
+Source:	Player&#39;s Handbook (2024) p. 167</text></feat></autolevel><autolevel><level>13</level><slots>5,4,3,3,3,2,1,1,0,0,</slots><tracker><label>Bladesong</label><resetType>2</resetType><value>5</value><formula>5</formula></tracker></autolevel><autolevel><level>14</level><slots>5,4,3,3,3,2,1,1,0,0,</slots><feat><name>Level 14: Spell Resistance (Abjurer)</name><text>You have Advantage on saving throws against spells, and you have Resistance to the damage of spells.
+
+Source:	Player&#39;s Handbook (2024) p. 172</text><optional>1</optional></feat><feat><name>Level 14: Greater Portent (Diviner)</name><text>The visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. Roll three d20s for your Portent feature rather than two.
+
+Source:	Player&#39;s Handbook (2024) p. 173</text><optional>1</optional></feat><feat><name>Level 14: Overchannel (Evoker)</name><text>You can increase the power of your spells. When you cast a Wizard spell with a spell slot of levels 1-5 that deals damage, you can deal maximum damage with that spell on the turn you cast it.
+	The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a Long Rest, you take 2d12 Necrotic damage for each level of the spell slot immediately after you cast it. This damage ignores Resistance and Immunity.
+	Each time you use this feature again before finishing a Long Rest, the Necrotic damage per spell level increases by 1d12.
+
+Source:	Player&#39;s Handbook (2024) p. 174</text><optional>1</optional></feat><feat><name>Level 14: Illusory Reality (Illusionist)</name><text>You have learned to weave shadow magic into your illusions to give them a semi-reality. When you cast an Illusion spell with a spell slot, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a Bonus Action while the spell is ongoing. The object remains real for 1 minute, during which it can&#39;t deal damage or give any conditions. For example, you can create an illusion of a bridge over a chasm and then make it real and cross it.
+
+Source:	Player&#39;s Handbook (2024) p. 175</text><optional>1</optional></feat><feat><name>Level 14: Song Of Victory (Bladesinger (UA))</name><text>After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a Bonus Action.
+
+Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 9</text><optional>1</optional></feat><feat><name>Level 14: Quick Transposition (Conjurer (UA))</name><text>You can use Benign Transposition as a Bonus Action.
+	You can also use Benign Transposition as a Reaction when a creature you can see makes an attack roll against you, but only to swap places with a willing creature. The creature that swaps places with you becomes the target of that attack instead.
+
+Source:	UA25-ArcaneSubclasses p. 8</text><optional>1</optional></feat><feat><name>Level 14: Bolstering Belief (Enchanter (UA))</name><text>Your enchantments fortify your allies&#39; bodies and minds. You always have Power Word Fortify prepared. With this feature, you can cast the spell without expending a spell slot, and each target of the spell has Advantage on saving throws to avoid or end the Charmed and Frightened conditions while it has Temporary Hit Points granted by this spell.
+	Once you cast the spell with this feature, you can&#39;t do so in this way again until you finish a Long Rest.
+
+Source:	UA25-ArcaneSubclasses p. 9</text><optional>1</optional></feat><feat><name>Level 14: Death&#39;s Master (Necromancer (UA))</name><text>Abstruse rituals within your spellbook allow you mastery over forces of death. While holding your spellbook, you gain the following benefits.
+
+Bolster Undead. As a Bonus Action, choose any number of Undead you have created or summoned with a Necromancy spell that are within 60 feet of yourself. Those Undead each gain Temporary Hit Points equal to your Wizard level. Once an Undead gains Temporary Hit Points from this feature, it can&#39;t gain them in this way again for the next 24 hours.
+
+Harvest Power. When you use Grim Harvest, the creature that gains Temporary Hit Points gains one of the following benefits of your choice, which lasts until the end of the target&#39;s next turn:
+
+	• The target has Advantage on attack rolls.
+	• The target has Advantage on the next saving throw it makes.
+
+Source:	UA25-ArcaneSubclasses p. 10</text><optional>1</optional></feat><feat><name>Level 14: Master Transmuter (Transmuter (UA))</name><text>As a Magic action, you can consume the reserve of transmutation magic stored in your transmuter&#39;s stone to choose one of the following benefits. After using your transmuter&#39;s stone in this way, it crumbles to dust.
+
+Panacea. The bearer regains a number of Hit Points equal to twice your Wizard level and ends a curse, including the target&#39;s Attunement to a cursed item.
+
+Restore Life. You cast Raise Dead without a spell slot, using the stone in place of the normally required Material components.
+
+Restore Youth. The bearer permanently appears 3d10 years younger, to a minimum of young adulthood.
+
+Source:	UA25-ArcaneSubclasses p. 11</text><optional>1</optional></feat><feat><name>Level 14: Splintered Summons (Conjurer (UA))</name><text>When you cast Summon Aberration, Summon Construct, Summon Dragon, Summon Elemental, or Summon Fey using a spell slot, you can modify the spell to summon two creatures with the spell instead of one. Each creature is of the same kind, uses the stat block and rules denoted by the spell, and manifests in a different unoccupied space of your choice within the spell&#39;s range, but the summoned creatures&#39; Hit Points are halved. If you lose Concentration on the spell, both creatures disappear.
+	Once you use this feature to modify a spell in this way, you must finish a Long Rest before you do so again. You can also restore your use of it by expending a level 5+ spell slot (no action required).
+
+Source:	UA25-ArcaneSubclassesUpdate p. 6</text><optional>1</optional></feat><feat><name>Level 14: Alter Memories (Enchanter (UA))</name><text>You can reliably enchant creatures and alter their memories. You always have the Modify Memory spell prepared. When you cast the spell, you can target a second creature with it if that creature is within range of the spell.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 7</text><optional>1</optional></feat><feat><name>Level 14: Death&#39;s Master (Necromancer (UA))</name><text>Abstruse rituals within your spellbook allow you mastery over forces of death. While holding your spellbook, you gain the following benefits.
+
+Bolster Undead. As a Bonus Action, choose any number of Undead you have created or summoned with a Necromancy spell that are within 60 feet of you. Those Undead each gain Temporary Hit Points equal to your Wizard level. Once an Undead gains Temporary Hit Points from this feature, it can&#39;t gain them in this way again for the next 24 hours.
+
+Extinguish Undead. When an Undead creature you can see is reduced to 0 Hit Points, you can cause it to explode with necrotic energy. Roll a number of d6s equal to half the creature&#39;s unexpended Hit Dice (round up, minimum of 1d6) and add them together. Each creature in a 10-foot Emanation originating from the Undead makes a Dexterity saving throw. On a failed save, a target takes Necrotic damage equal to the number rolled and can&#39;t take Reactions until the start of its next turn. On a successful save, a target takes half as much damage only. When you use this feature to explode an Undead creature you don&#39;t control, you must take a Reaction and expend a level 5+ spell slot to do SO.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 8</text><optional>1</optional></feat><feat><name>Level 14: Master Transmuter (Transmuter (UA))</name><text>While you carry your Transmuter&#39;s Stone, you can take a Magic action to consume the reserve of transmutation magic stored inside and choose one of the following benefits. After you use your Transmuter&#39;s Stone in this way, the stone crumbles to dust. You can prevent the stone from crumbling by expending a level 5+ spell slot as part of the Magic action you take using this feature.
+
+Major Transformation. You can transmute one nonmagical object—no larger than a 10-foot Cube or eight connected 5-foot Cubes-into another nonmagical object of similar size and mass and of equal or lesser value. You must spend 10 minutes handling the object to transform it.
+
+Panacea. You touch a creature as part of this Magic action, and the target regains a number of Hit Points equal to half its Hit Point maximum (round down). The target is cured of all magical contagions, and any curses affecting the target are lifted, including the target&#39;s Attunement to a cursed item. If the target has the Poisoned or Petrified conditions, those conditions end.
+
+Restore Life. You cast the Raise Dead spell without expending a spell slot, using the stone in place of the required Material components.
+
+Restore Youth. You touch one willing creature as part of this Magic action, and the target&#39;s Exhaustion level, if any, decreases to 0 and it permanently appears 3d10 years younger, to a minimum of young adulthood.
+
+Source:	UA25-ArcaneSubclassesUpdate p. 10</text><optional>1</optional></feat><feat><name>Level 14: Durable Summons (School of Conjuration (Legacy))</name><text>Starting at 14th level, any creature that you summon or create with a conjuration spell has 30 temporary hit points.
+
+Source:	Player&#39;s Handbook (2014) p. 116</text><optional>1</optional></feat><feat><name>Level 14: Alter Memories (School of Enchantment (Legacy))</name><text>At 14th level, you gain the ability to make a creature unaware of your magical influence on it. When you cast an enchantment spell to charm one or more creatures, you can alter one creature&#39;s understanding so that it remains unaware of being charmed.
+	Additionally, once before the spell expires, you can use your action to try to make the chosen creature forget some of the time it spent charmed. The creature must succeed on an Intelligence saving throw against your wizard spell save DC or lose a number of hours of its memories equal to 1 + your Charisma modifier (minimum of 1). You can make the creature forget less time, and the amount of time can&#39;t exceed the duration of your enchantment spell.
+
+Source:	Player&#39;s Handbook (2014) p. 117</text><optional>1</optional></feat><feat><name>Level 14: Command Undead (School of Necromancy (Legacy))</name><text>Starting at 14th level, you can use magic to bring undead under your control, even those created by other wizards. As an action, you can choose one undead that you can see within 60 feet of you. That creature must make a Charisma saving throw against your wizard spell save DC. If it succeeds, you can&#39;t use this feature on it again. If it fails, it becomes friendly to you and obeys your commands until you use this feature again.
+	Intelligent undead are harder to control in this way. If the target has an Intelligence of 8 or higher, it has advantage on the saving throw. If it fails the saving throw and has an Intelligence of 12 or higher, it can repeat the saving throw at the end of every hour until it succeeds and breaks free.
+
+Source:	Player&#39;s Handbook (2014) p. 118</text><optional>1</optional></feat><feat><name>Level 14: Master Transmuter (School of Transmutation (Legacy))</name><text>Starting at 14th level, you can use your action to consume the reserve of transmutation magic stored within your transmuter&#39;s stone in a single burst. When you do so, choose one of the following effects. Your transmuter&#39;s stone is destroyed and can&#39;t be remade until you finish a long rest.
+
+Major Transformation. You can transmute one nonmagical object—no larger than a 5-foot cube—into another nonmagical object of similar size and mass and of equal or lesser value. You must spend 10 minutes handling the object to transform it.
+
+Panacea. You remove all curses, diseases, and poisons affecting a creature that you touch with the transmuter&#39;s stone. The creature also regains all its hit points.
+
+Restore Life. You cast the raise dead spell on a creature you touch with the transmuter&#39;s stone, without expending a spell slot or needing to have the spell in your spellbook.
+
+Restore Youth. You touch the transmuter&#39;s stone to a willing creature, and that creature&#39;s apparent age is reduced by 3d10 years, to a minimum of 13 years. This effect doesn&#39;t extend the creature&#39;s lifespan.
+
+Source:	Player&#39;s Handbook (2014) p. 119</text><optional>1</optional></feat><feat><name>Level 14: Deflecting Shroud (War Magic (Legacy))</name><text>At 14th level, your Arcane Deflection becomes infused with deadly magic. When you use your Arcane Deflection feature, you can cause magical energy to arc from you. Up to three creatures of your choice that you can see within 60 feet of you each take force damage equal to half your wizard level.
+
+Source:	Xanathar&#39;s Guide to Everything p. 59</text><optional>1</optional></feat><feat><name>Level 14: Convergent Future (Chronurgy Magic (Legacy))</name><text>You can peer through possible futures and magically pull one of them into events around you, ensuring a particular outcome. When you or a creature you can see within 60 feet of you makes an attack roll, an ability check, or a saving throw, you can use your reaction to ignore the die roll and decide whether the number rolled is the minimum needed to succeed or one less than that number (your choice).
+	When you use this feature, you gain one level of exhaustion. Only by finishing a long rest can you remove a level of exhaustion gained in this way.
+
+Source:	Explorer&#39;s Guide to Wildemount p. 184</text><optional>1</optional></feat><feat><name>Level 14: Event Horizon (Graviturgy Magic (Legacy))</name><text>As an action, you can magically emit a powerful field of gravitational energy that tugs at other creatures for up to 1 minute or until your concentration ends (as if you were concentrating on a spell). For the duration, whenever a creature hostile to you starts its turn within 30 feet of you, it must make a Strength saving throw against your spell save DC. On a failed save, it takes 2d10 force damage, and its speed is reduced to 0 until the start of its next turn. On a successful save, it takes half as much damage, and every foot it moves this turn costs 2 extra feet of movement.
+	Once you use this feature, you can&#39;t do so again until you finish a long rest or until you expend a spell slot of 3rd level or higher on it.
+
+Source:	Explorer&#39;s Guide to Wildemount p. 185</text><optional>1</optional></feat><feat><name>Level 14: Song of Victory (Bladesinging (Legacy))</name><text>Starting at 14th level, you add your Intelligence modifier (minimum of +1) to the damage of your melee weapon attacks while your Bladesong is active.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 76,
+		Sword Coast Adventurer&#39;s Guide p. 141</text><optional>1</optional></feat><feat><name>Level 14: One with the Word (Order of Scribes (Legacy))</name><text>Your connection to your Awakened Spellbook has become so profound that your soul has become entwined with it. While the book is on your person, you have advantage on all Intelligence (Arcana) checks, as the spellbook helps you remember magical lore.
+	Moreover, if you take damage while your spellbook&#39;s mind is manifested, you can prevent all of that damage to you by using your reaction to dismiss the spectral mind, using its magic to save yourself. Then roll 3d6. The spellbook temporarily loses spells of your choice that have a combined spell level equal to that roll or higher. For example, if the roll&#39;s total is 9, spells vanish from the book that have a combined level of at least 9, which could mean one 9th-level spell, three 3rd-level spells, or some other combination. If there aren&#39;t enough spells in the book to cover this cost, you drop to 0 hit points.
+	Until you finish 1d6 long rests, you are incapable of casting the lost spells, even if you find them on a scroll or in another spellbook. After you finish the required number of rests, the spells reappear in the spellbook.
+	Once you use this reaction, you can&#39;t do so again until you finish a long rest.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 77</text><optional>1</optional></feat><feat><name>Level 14: Thicker than Water (Blood Magic (Legacy))</name><text>Upon reaching 14th level, the blood that flows through your veins is empowered with arcane vigor that mends wounds and helps preserve your life. Whenever a spell or magical effect causes you to regain hit points, you regain an additional number of hit points equal to your proficiency bonus.
+	In addition, while you are concentrating on a spell, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+
+Source:	Tal&#39;Dorei Campaign Setting: Reborn p. 179</text><optional>1</optional></feat><feat><name>Level 14: Endocrine Overload (School of Biomancy (HB) (Legacy))</name><text>Over the course of 1 hour (which can be done during a rest), you can craft a capsule of potent stimulants, choosing from either the Brutish or Swift archetypes, and embed it within your adrenal gland. With a slight tensing of your brain muscles, you can crack this capsule as a bonus action, stimulating your body. For the next minute, you gain the following benefits based on the archetype you chose:
+
+Brutish:
+	• If you are smaller than Large, you become Large, and your weight increases proportionately. If you lack the room to become Large, your size doesn&#39;t change.
+
+	• Your Strength score increases to match your Intelligence score if it isn&#39;t already higher.
+
+	• You have advantage on Strength and Constitution checks and Strength and Constitution saving throws.
+
+	• You grow an appendage with which you can make melee weapon attacks. When you grow the weapon, you decide whether it deals bludgeoning, piercing, or slashing damage. You are proficient with this weapon and use your Strength modifier for attack and damage rolls. The weapon deals 2d10 damage.
+
+	• You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that lets you attack more than once when you take the Attack action on your turn.
+
+	• You gain temporary hit points equal to twice your Intelligence modifier (minimum of 2) at the start of each of your turns.
+
+Swift:
+	• Your Dexterity score increases to match your Intelligence score if it isn&#39;t already higher.
+
+	• You have advantage on Dexterity checks and saving throws.
+
+	• Your cantrips with a casting time of 1 action have a casting time of 1 action or 1 bonus action.
+
+	• You gain the benefits of the haste spell, which can&#39;t be dispelled:
+		• Your speed is doubled.
+		• You gain a +2 bonus to AC.
+		• You can take one additional action on each of your turns, which can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.
+
+Relapse. When the minute elapses, you gain one level of exhaustion, and you can&#39;t move or take actions until the end of your next turn, as a wave of lethargy sweeps over you. You must craft another capsule before you can use this feature again.
+
+Source:	Heliana&#39;s Guide to Monster Hunting - Part One p. 217</text><optional>1</optional></feat><tracker><label>Portent</label><resetType>2</resetType><value>3</value><formula>3</formula></tracker><tracker><label>Overchannel</label><resetType>2</resetType><value>1</value><formula>1</formula></tracker><tracker><label>Bolstering Belief</label><resetType>2</resetType><value>1</value><formula>1</formula></tracker><tracker><label>Bolstering Belief</label><resetType>2</resetType><value>1</value><formula>1</formula></tracker><tracker><label>One with the Word</label><resetType>2</resetType><value>1</value><formula>1</formula></tracker><tracker><label>Bond of Mutual Suffering</label><resetType>1</resetType><value>2</value><formula>2</formula></tracker></autolevel><autolevel><level>15</level><slots>5,4,3,3,3,2,1,1,1,0,</slots></autolevel><autolevel><level>16</level><scoreImprovement>1</scoreImprovement><slots>5,4,3,3,3,2,1,1,1,0,</slots><feat><name>Level 16: Ability Score Improvement</name><text>You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
+
+Source:	Player&#39;s Handbook (2024) p. 167</text></feat></autolevel><autolevel><level>17</level><slots>5,4,3,3,3,2,1,1,1,1,</slots><tracker><label>Bladesong</label><resetType>2</resetType><value>6</value><formula>6</formula></tracker></autolevel><autolevel><level>18</level><slots>5,4,3,3,3,3,1,1,1,1,</slots><feat><name>Level 18: Spell Mastery</name><text>You have achieved such mastery over certain spells that you can cast them at will. Choose a level 1 and a level 2 spell in your spellbook that have a casting time of an action. You always have those spells prepared, and you can cast them at their lowest level without expending a spell slot. To cast either spell at a higher level, you must expend a spell slot.
+	Whenever you finish a Long Rest, you can study your spellbook and replace one of those spells with an eligible spell of the same level from the book.
+
+Source:	Player&#39;s Handbook (2024) p. 167</text></feat></autolevel><autolevel><level>19</level><slots>5,4,3,3,3,3,2,1,1,1,</slots><feat><name>Level 19: Epic Boon</name><text>You gain an Epic Boon feat (see chapter 5) or another feat of your choice for which you qualify. Boon of Spell Recall is recommended.
+
+Source:	Player&#39;s Handbook (2024) p. 167</text></feat></autolevel><autolevel><level>20</level><slots>5,4,3,3,3,3,2,2,1,1,</slots><feat><name>Level 20: Signature Spells</name><text>Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can&#39;t cast them in this way again until you finish a Short or Long Rest. To cast either spell at a higher level, you must expend a spell slot.
+
+Source:	Player&#39;s Handbook (2024) p. 167</text></feat></autolevel><spellAbility>3</spellAbility><spell><name>Silvery Barbs</name><school>4</school><level>1</level><time>1 reaction, which you take when a creature you can see within 60 feet of yourself succeeds on an attack roll, an ability check, or a saving throw</time><range>60 feet</range><v>1</v><duration>Instantaneous</duration><text>You magically distract the triggering creature and turn its momentary uncertainty into encouragement for another creature. The triggering creature must reroll the d20 and use the lower roll.
+
+You can then choose a different creature you can see within range (you can choose yourself). The chosen creature has advantage on the next attack roll, ability check, or saving throw it makes within 1 minute. A creature can be empowered by only one use of this spell at a time.
+
+Source:	Strixhaven: A Curriculum of Chaos p. 38</text><sclass>Bard [2024]</sclass><sclass>Sorcerer [2024]</sclass><sclass>Wizard [2024]</sclass></spell><spell><name>Magic Missile [2024]</name><school>5</school><level>1</level><time>Action</time><range>120 feet</range><v>1</v><s>1</s><duration>Instantaneous</duration><text>You create three glowing darts of magical force. Each dart strikes a creature of your choice that you can see within range. A dart deals 1d4 + 1 Force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+
+Using a Higher-Level Spell Slot: The spell creates one more dart for each spell slot level above 1.
+
+Source:	Player&#39;s Handbook (2024) p. 295</text><roll>1d4+1</roll><sclass>School: Evocation</sclass><sclass>Sorcerer [2024]</sclass><sclass>Wizard [2024]</sclass><sclass>Artificer (UA) [2024] (Armorer)</sclass><sclass>Cleric [2024] (Arcana Domain (UA))</sclass><sclass>Cleric [2024] (Arcana Domain)</sclass><sclass>Artificer (Legacy) (Armorer)</sclass></spell><spell><name>Shape Water</name><school>8</school><time>1 action</time><range>30 feet</range><s>1</s><duration>Instantaneous, 1 hour</duration><text>You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
+
+	• You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn&#39;t have enough force to cause damage.
+	• You cause the water to form into simple shapes and animate at your direction. This change lasts for 1 hour.
+	• You change the water&#39;s color or opacity. The water must be changed in the same way throughout. This change lasts for 1 hour.
+	• You freeze the water, provided that there are no creatures in it. The water unfreezes in 1 hour.
+
+If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+
+Source:	Xanathar&#39;s Guide to Everything p. 164,
+		Elemental Evil Player&#39;s Companion p. 21,
+		Explorer&#39;s Guide to Wildemount</text><sclass>School: Transmutation</sclass><sclass>Druid [2024]</sclass><sclass>Sorcerer [2024]</sclass><sclass>Wizard [2024]</sclass></spell><spell><name>Mind Sliver [2024]</name><school>4</school><time>Action</time><range>60 feet</range><v>1</v><duration>Instantaneous</duration><text>You try to temporarily sliver the mind of one creature you can see within range. The target must succeed on an Intelligence saving throw or take 1d6 Psychic damage and subtract 1d4 from the next saving throw it makes before the end of your next turn.
+
+Cantrip Upgrade: The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
+
+Source:	Player&#39;s Handbook (2024) p. 298</text><roll>1d6</roll><roll>2d6</roll><roll>3d6</roll><roll>4d6</roll><roll>1d4</roll><sclass>School: Enchantment</sclass><sclass>Sorcerer [2024]</sclass><sclass>Warlock [2024]</sclass><sclass>Wizard [2024]</sclass><sclass>Sorcerer [2024] (Aberrant)</sclass><sclass>Psion (UA) [2024]</sclass><sclass>Alt. Blood Hunter (LaserLlama) [2024] (Order of Witch Knights)</sclass></spell><spell><name>Find Familiar [2024]</name><school>2</school><ritual>1</ritual><level>1</level><time>1 hour</time><range>10 feet</range><v>1</v><s>1</s><m>1</m><materials>burning incense worth 10+ GP, which the spell consumes</materials><duration>Instantaneous</duration><text>You gain the service of a familiar, a spirit that takes an animal form you choose: Bat, Cat, Frog, Hawk, Lizard, Octopus, Owl, Rat, Raven, Spider, Weasel, or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
+
+Telepathic Connection: While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as a Bonus Action, you can see through the familiar&#39;s eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
+	Finally, when you cast a spell with a range of touch, your familiar can deliver the touch. Your familiar must be within 100 feet of you, and it must take a Reaction to deliver the touch when you cast the spell.
+
+Combat: The familiar is an ally to you and your allies. It rolls its own Initiative and acts on its own turn. A familiar can&#39;t attack, but it can take other actions as normal.
+
+Disappearance of the Familiar: When the familiar drops to 0 Hit Points, it disappears. It reappears after you cast this spell again. As a Magic action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a Magic action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 30 feet of you. Whenever the familiar drops to 0 Hit Points or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.
+
+One Familiar Only: You can&#39;t have more than one familiar at a time. If you cast this spell while you have a familiar, you instead cause it to adopt a new eligible form.
+
+Source:	Player&#39;s Handbook (2024) p. 272</text><sclass>School: Conjuration</sclass><sclass>Ritual Caster</sclass><sclass>Wizard [2024]</sclass></spell><spell><name>Tasha&#39;s Hideous Laughter [2024]</name><school>4</school><level>1</level><time>Action</time><range>30 feet</range><v>1</v><s>1</s><m>1</m><materials>a tart and a feather</materials><duration>Concentration, up to 1 minute</duration><text>One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it&#39;s capable of laughter, and it can&#39;t end the Prone condition on itself.
+	At the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.
+
+Using a Higher-Level Spell Slot: You can target one additional creature for each spell slot level about 1.
+
+Source:	Player&#39;s Handbook (2024) p. 331</text><sclass>School: Enchantment</sclass><sclass>Bard [2024]</sclass><sclass>Warlock [2024]</sclass><sclass>Wizard [2024]</sclass><sclass>Warlock [2024] (Great Old One)</sclass><sclass>Psion (UA) [2024]</sclass></spell><spell><name>Sleep [2024]</name><school>4</school><level>1</level><time>Action</time><range>60 feet</range><v>1</v><s>1</s><m>1</m><materials>a pinch of sand or rose petals</materials><duration>Concentration, up to 1 minute</duration><text>Each creature of your choice in a 5-foot-radius Sphere centered on a point within range must succeed on a Wisdom saving throw or have the Incapacitated condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the Unconscious condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell&#39;s effect.
+	Creatures that don&#39;t sleep, such as elves, or that have Immunity to the Exhaustion condition automatically succeed on saves against this spell.
+
+Source:	Player&#39;s Handbook (2024) p. 317</text><sclass>School: Enchantment</sclass><sclass>Bard [2024]</sclass><sclass>Sorcerer [2024]</sclass><sclass>Wizard [2024]</sclass><sclass>Druid [2024] (Temperate Land)</sclass><sclass>Warlock [2024] (Archfey)</sclass><sclass>Psion (UA) [2024]</sclass><sclass>Paladin [2024] (Redemption)</sclass><sclass>Mark of Hospitality (Legacy)</sclass><sclass>Cleric [2024] (Twilight Domain (Legacy))</sclass><sclass>Cleric [2024] (Blood Domain (Legacy))</sclass><sclass>Cleric [2024] (Night Domain (Legacy))</sclass><sclass>Tamer (Heliana)</sclass></spell><spell><name>Shield [2024]</name><school>1</school><level>1</level><time>1 reaction, which you take when you are hit by an attack roll or targeted by the Magic Missile spell</time><range>Self</range><v>1</v><s>1</s><duration>1 round</duration><text>An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from Magic Missile.
+
+Source:	Player&#39;s Handbook (2024) p. 316</text><sclass>School: Abjuration</sclass><sclass>Sorcerer [2024]</sclass><sclass>Wizard [2024]</sclass><sclass>Artificer (UA) [2024] (Artillerist)</sclass><sclass>Artificer (UA) [2024] (Battle Smith)</sclass><sclass>Warlock [2024] (Hexblade (UA))</sclass><sclass>Warlock [2024] (Hexblade Patron (UA))</sclass><sclass>Psion (UA) [2024]</sclass><sclass>Psion (UA) [2024] (Psykinetic)</sclass><sclass>Alt. Blood Hunter (LaserLlama) [2024] (Order of Witch Knights)</sclass><sclass>Warlock [2024] (Hexblade)</sclass><sclass>Artificer (Legacy) (Artillerist)</sclass><sclass>Artificer (Legacy) (Battle Smith)</sclass><sclass>Sorcerer [2024] (Lunar Magic)</sclass></spell><spell><name>Mage Hand [2024]</name><school>2</school><time>Action</time><range>30 feet</range><v>1</v><s>1</s><duration>1 minute</duration><text>A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
+	When you cast the spell, you can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial.
+	As a Magic action on your later turns, you can control the hand thus again. As part of that action, you can move the hand up to 30 feet.
+	The hand can&#39;t attack, activate magic items, or carry more than 10 pounds.
+
+Source:	Player&#39;s Handbook (2024) p. 293</text><sclass>School: Conjuration</sclass><sclass>Bard [2024]</sclass><sclass>Sorcerer [2024]</sclass><sclass>Warlock [2024]</sclass><sclass>Wizard [2024]</sclass><sclass>Artificer (UA) [2024]</sclass><sclass>Artificer Revised (UA) [2024]</sclass><sclass>Psion (UA) [2024]</sclass><sclass>Alt. Blood Hunter (LaserLlama) [2024] (Order of Witch Knights)</sclass><sclass>Artificer (Legacy)</sclass><sclass>Ranger [2024] (Swarmkeeper (Legacy))</sclass></spell><spell><name>Prestidigitation [2024]</name><school>8</school><time>Action</time><range>10 feet</range><v>1</v><s>1</s><duration>1 hour</duration><text>You create a magical effect within range. Choose the effect from the options below. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time.
+
+Sensory Effect: You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
+
+Fire Play: You instantaneously light or snuff out a candle, a torch, or a small campfire.
+
+Clean or Soil: You instantaneously clean or soil an object no larger than 1 cubic foot.
+
+Minor Sensation: You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+
+Magic Mark: You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
+
+Minor Creation: You create a nonmagical trinket or an illusory image that can fit in your hand. It lasts until the end of your next turn. A trinket can deal no damage and has no monetary worth.
+
+Source:	Player&#39;s Handbook (2024) p. 307</text><sclass>School: Transmutation</sclass><sclass>Bard [2024]</sclass><sclass>Sorcerer [2024]</sclass><sclass>Warlock [2024]</sclass><sclass>Wizard [2024]</sclass><sclass>Artificer (UA) [2024]</sclass><sclass>Artificer Revised (UA) [2024]</sclass><sclass>Psion (UA) [2024]</sclass><sclass>Alt. Blood Hunter (LaserLlama) [2024] (Order of Witch Knights)</sclass><sclass>Fighter [2024] (Arcane Archer)</sclass><sclass>Artificer (Legacy)</sclass></spell></class><background><name>Sage</name><feat><name>Description</name><text>You spent years learning the lore of the multiverse. You scoured manuscripts, studied scrolls, and listened to the greatest experts on the subjects that interest you. Your efforts have made you a master in your fields of study.</text><expanded>0</expanded></feat><feat><name>Specialty</name><text>To determine the nature of your scholarly training, roll 1d8 or choose from the options below.
+
+1. Alcehmist
+
+2. Astronomer
+
+3. Discredited academic
+
+4. Librarian
+
+5. Professor
+
+6. Researcher
+
+7. Wizard&#39;s apprentice
+
+8. Scribe</text><expanded>0</expanded></feat><feat><name>Starting Proficiencies</name><text>Your background grants you the following proficiencies.
+
+Skills: Arcana, History
+
+Languages: any two of your choice
+
+Tools: none</text><expanded>0</expanded></feat><feat><name>Researcher</name><text>When you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it. Usually, this information comes from a library, scriptorium, university, or a sage or other learned person or creature. Your DM might rule that the knowledge you seek is secreted away in an almost inaccessible place, or that it simply cannot be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign.
+
+Source: Player&#39;s Handbook, p. 137</text><expanded>0</expanded></feat><feat><name>Equipment</name><text>A bottle of black ink, a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of common clothes, and a belt pouch containing 10 gp</text><expanded>0</expanded></feat><feat><name>Personality Trait</name><text>Choose or randomly determine
+
+
+1. I use polysyllabic words that convey the impression of great erudition.
+
+2. I&#39;ve read every book in the world&#39;s greatest libraries-or I like to boast that I have.
+
+3. I&#39;m used to helping out those who aren&#39;t as smart as I am, and I patiently explain anything and everything to others.
+
+4. There&#39;s nothing I like more than a good mystery.
+
+5. I&#39;m willing to listen to every side of an argument before I make my own judgment.
+
+6. I... speak... slowly... when talking... to idiots,... which... almost... everyone... is... compared... to me.
+
+7. I am horribly, horribly awkward in social situations.
+
+8. I&#39;m convinced that people are always trying to steal my secrets. </text><expanded>0</expanded></feat><feat><name>Ideal</name><text>Choose or randomly determine
+
+
+1. Knowledge: The path to power and self-improvement is through knowledge. (Neutral).
+
+2. Beauty: What is beautiful points us beyond itself toward what is true. (Good).
+
+3. Logic: Emotions must not cloud our logical thinking. (Lawful).
+
+4. No Limits: Nothing should fetter the infinite possibility inherent in all existence. (Chaotic).
+
+5. Power: Knowledge is the path to power and domination. (Evil).
+
+6. Self-Improvement: The goal of a life of study is the betterment of oneself. (Any). </text><expanded>0</expanded></feat><feat><name>Bond</name><text>Choose or randomly determine
+
+
+1. It is my duty to protect my students.
+
+2. I have an ancient text that holds terrible secrets that must not fall into the wrong hands.
+
+3. I work to preserve a library, university, scriptorium, or monastery.
+
+4. My life&#39;s work is a series of tomes related to a specific field of lore.
+
+5. I&#39;ve been searching my whole life for the answer to a certain question.
+
+6. I sold my soul for knowledge. I hope to do great deeds and win it back.</text><expanded>0</expanded></feat><feat><name>Flaw</name><text>Choose or randomly determine
+
+
+1. I am easily distracted by the promise of information.
+
+2. Most people scream and run when they see a demon. I stop and take notes on its anatomy.
+
+3. Unlocking an ancient mystery is worth the price of a civilization.
+
+4. I overlook obvious solutions in favor of complicated ones.
+
+5. I speak without really thinking through my words, invariably insulting others.
+
+6. I can&#39;t keep a secret to save my life, or anyone else&#39;s.</text><expanded>0</expanded></feat><proficiency>102</proficiency><proficiency>105</proficiency></background>
+<unarmed>1</unarmed><slots>3,2,0,0,0,0,0,0,0,0,</slots><slotsCurrent>3,2,0,0,0,0,0,0,0,0,</slotsCurrent><feat><name>Telekinetic (Intelligence) [2024]</name><text>You gain the following benefits.
+
+Ability Score Increase. Increase your Intelligence score by 1, to a maximum of 20.
+
+Minor Telekinesis. You learn the Mage Hand spell. You can cast it without Verbal or Somatic components, you can make the spectral hand Invisible, and its range and the distance it can be away from you both increase by 30 feet when you cast it. The spell&#39;s spellcasting ability is the ability increased by this feat.
+
+Telekinetic Shove. As a Bonus Action, you can telekinetically shove one creature you can see within 30 feet of yourself. When you do so, the target must succeed on a Strength saving throw (DC 8 plus Intelligence modifier and your Proficiency Bonus) or be moved 5 feet toward or away from you.
+
+Source:	Player&#39;s Handbook (2024) p. 208</text><expanded>0</expanded><prereq>Level 4+</prereq><mod><category>1</category><type>3</type><value>1</value></mod></feat><item><name>Dagger</name><text>Proficiency: simple, dagger
+Source: Player&#39;s Handbook p. 149</text><type>5</type><slot>2</slot><value>2.0</value><weight>1.0</weight><damage1H>1d4</damage1H><damageType>2</damageType><weaponProperty>138</weaponProperty><weaponRange>20</weaponRange><weaponLongRange>60</weaponLongRange><mod><type>1</type></mod></item><item><name>Emblem</name><text>A holy symbol is a representation of a god or pantheon
+	A cleric or paladin can use a holy symbol as a spellcasting focus, using it in place of any material components which do not list a cost. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.
+
+Source: Player&#39;s Handbook p. 151</text><value>5.0</value></item><item><name>Manacles</name><text>These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves&#39; tools can pick the manacles&#39; lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
+
+Source: Player&#39;s Handbook p. 152</text><quantity>3</quantity><value>2.0</value><weight>6.0</weight></item><item><name>Map or Scroll Case</name><text>This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.
+
+Source: Player&#39;s Handbook p. 151</text><value>1.0</value><weight>1.0</weight></item><item><name>Mirror, steel</name><value>5.0</value><weight>0.5</weight></item><item><name>Perfume (vial)</name><text>Source: Player&#39;s Handbook p. 150</text><value>5.0</value></item><item><name>Playing Card Set</name><text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.
+
+Source: Player&#39;s Handbook p. 154</text><value>0.5</value></item><item><name>Robes</name><text>Source: Player&#39;s Handbook p. 150</text><value>1.0</value><weight>4.0</weight></item><item><name>Signet Ring</name><text>Source: Player&#39;s Handbook p. 150</text><value>5.0</value></item><item><name>Spellbook</name><text>Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.
+
+Source: Player&#39;s Handbook p. 150</text><value>15</value></item><item><name>Fine Clothes</name><text>Source: Player&#39;s Handbook p. 150</text><value>15.0</value><weight>4.0</weight></item><item><name>Signet Ring</name><text>Source: Player&#39;s Handbook p. 150</text><value>5.0</value></item><item><name>Spellbook</name><text>Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.
+
+Source: Player&#39;s Handbook p. 153</text><value>50.0</value><weight>3.0</weight></item><item><name>Vial</name><text>A vial can hold up to 4 ounces of liquid.
+
+Source: Player&#39;s Handbook p. 153</text><quantity>5</quantity><value>1.0</value></item><item><name>Gold (gp)</name><type>15</type><quantity>4</quantity><value>1.0</value><weight>0.02</weight></item><item><name>Silver (sp)</name><type>15</type><quantity>5</quantity><value>0.1</value><weight>0.02</weight></item><container><label>Scholar&#39;s Pack</label><name>Backpack</name><value>40.0</value><weight>5.0</weight><carried>1</carried><item><name>Book of lore</name></item><item><name>Ink (1 ounce bottle)</name></item><item><name>Ink pen</name></item><item><name>Parchment (one sheet)</name><quantity>10</quantity></item><item><name>Bag of sand</name></item><item><name>Small knife</name></item></container><monster><name>Owl [2024]</name><size>0</size><type>beast</type><alignment>unaligned</alignment><ac>11</ac><hd>1d4-1</hd><speed>5 ft., fly 60 ft.</speed><init>1</init><skill><id>16</id><modifier>5</modifier></skill><skill><id>11</id><modifier>5</modifier></skill><senses>darkvision 120 ft.</senses><passive>15</passive><cr>-3</cr><text>Source:	Monster Manual (2024) p. 366,
+		Player&#39;s Handbook (2024) p. 354</text><environment>41</environment><trait><name>Proficiency Bonus</name><text>+2</text></trait><trait><name>Flyby</name><text>The owl doesn&#39;t provoke Opportunity Attacks when it flies out of an enemy&#39;s reach.</text></trait><action><name>Talons</name><text>Melee Attack Roll: +3, reach 5 ft. Hit: 1 Slashing damage.</text><attack><name>Talons</name><attackBonus>+3</attackBonus><damage>1</damage></attack></action><abilities>3,13,8,2,12,7,</abilities><hpMax>1</hpMax><hpCurrent>1</hpCurrent></monster><abilities>7,16,15,16,14,14,</abilities><hpMax>9</hpMax><hpCurrent>9</hpCurrent></character></pc>

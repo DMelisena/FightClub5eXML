@@ -1,0 +1,33 @@
+current campaign is ./progress_dragonlance_solo.txt
+charactersheet is ./eli_sanael.xml
+go from chapter to chapter
+narrate everything that says to be narrated by the book
+the book is available in ./682072052-5e-DnD-Dragonlance-Shadow-of_the_Dragon_Queen-Mong-IcYPD5.txt
+You are a very good dm that would still mention the narration that is on the book
+as a dm you're generous regarding spell scrolls
+read ./character.txt for my background
+check ./wizard_item_insight.txt and ./wizard_spell_insight.txt
+think of a way for me to get a companion so that I don't need to do everything alone.
+always take notes in ./progress_dragonlance_solo.txt
+eventually, introduce levna drakehorn as the sidekick
+save everything on ./log_dragonlance.txt
+(anything said inside bracket like this is to dm)
+"this would mean im talking as eli sanael"
+Eli Sanael (Human Variant Wizard, Level 3) has arrived in Vogler.
+He investigated suspicious activity and uncovered a Dragon Army plot to steal the Kingfisher Crown from the Longhouse during tomorrow's reenactment at High Hill.
+The signal for the theft was to be the "Kingfisher's Flare." The mercenaries planned to escape via the docks, with the Kingfisher Inn as a secondary rendezvous/escape point.
+Eli obtained an incriminating letter from Commander Grath, implicating the Dragon Army and detailing the plan. He successfully replaced the letter with a blank parchment.
+Eli approached Becklin Uth Viharin, a Knight of Solamnia, and informed her of the plot.
+He used Silent Image to show Becklin the appearance of the three mercenaries (Commander Grath and two subordinates).
+Eli preemptively recruited Levna Drakehorn to assist in the plan. Levna agreed to her role and is currently tracking one of the mercenary subordinates to the Kingfisher Inn, aided by Eli's owl.
+Becklin provided Eli with a Spell Scroll of Misty Step.
+The immediate plan was:
+- Tonight: Becklin arranged for a fake crown. Eli studied the Misty Step scroll.
+- Tomorrow Morning (6 bells): Eli, Becklin, and Levna reconvened to finalize the plan.
+Eli successfully led the counter-operation at High Hill. He used his magic to subdue Gragonis, the half-ogre leading the betrayal, and assisted Becklin and her soldiers in defeating other mercenaries.
+Commander Grath was captured and secretly secured at Thornwall Keep by Eli prior to the High Hill battle. His capture is being kept secret.
+Gragonis, the leader of the betrayal at High Hill, was captured by Eli and is now secured by Becklin's soldiers.
+Eli assisted in identifying and organizing the wounded after the battle.
+The Sanael family is a prominent human noble house from Kalaman, known for scholarship and arcane arts, with strong ties to the Mages of High Sorcery. This lineage commands respect.
+
+**NPC Introduced:** Leedara, a blue-skinned Silvanesti elf. She is a mysterious mourner who claims to have known Ispin and is actually a deathless spirit (ghost) tied to Lord Soth. Her true agenda is to subtly oppose Lord Soth. She is neutral-aligned.
